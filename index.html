@@ -1,168 +1,265 @@
 <!doctype html>
-<html data-bs-theme="dark">
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>jiujitsu.bot</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6FS7JRHDZY"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
- 
-        gtag('config', 'G-6FS7JRHDZY');
-    </script>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script>
-    
-    function degToRad(deg) {
-        return (deg * Math.PI)/180;
-    }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>jiujitsu.bot · Find your next jiu-jitsu tournament</title>
+  <meta name="description" content="Every upcoming IBJJF, AJP, AGF and Tap Cancer Out tournament in one searchable list, map and calendar.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect y='12' width='32' height='8' fill='%231b1e23'/><rect x='20' y='12' width='8' height='8' fill='%23c0272d'/></svg>">
 
-    function distance(startLat, startLon, endLat, endLon) {
-        return Math.acos(
-            Math.sin(degToRad(parseFloat(startLat))) * Math.sin(degToRad(parseFloat(endLat))) +
-            Math.cos(degToRad(parseFloat(startLat))) * Math.cos(degToRad(parseFloat(endLat))) *
-            Math.cos(degToRad(parseFloat(startLon)) - degToRad(parseFloat(endLon)))
-        ) * 6371;
-    }
-    function buildTable(event_data) {
-                $.each(event_data, function(i, item){
-                
-                tr = $('<tr>');
-                vals = Object.values(item);
-                $.each(vals, (i, elem) => {
-                    if (i < 1) {
-                        td = $('<th scope="row">');
-                        td.text(elem);
-                        
-                    } else if (i == 4) {
-                        return
-                    } else if (i == 5) {
-                        return
-                    } else if (i > 5) {
-                        td = $('<td>').append('<a class="btn btn-primary" role="button"  href="'+elem+'">Register!</a>');
-                    } else {
-                        td = $("<td>");
-                        td.text(elem);
-                    }
-                    
-                    tr.append(td);
-                    });
-                tbody.append(tr);
-            });
-            }
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
 
-    var lat;
-    var long;
+  <!-- Map library (Leaflet + marker clustering) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
 
-    $( document ).ready(function() {
-        console.log( "document loaded" );
-        
-        //variable to store json data for later usage
-        $.getJSON('event_listings.json', function(event_data) {
-            
-            //sort json data by date
-            console.log("retrieving user location...");
-            if (navigator.geolocation) {
-                console.log("got location...");
-                navigator.geolocation.getCurrentPosition(getLocationData);
-            } else {
-                console.log("can't retrieve device location...");
-            }
-            event_data.sort( (a,b) => {
-                return new Date(a.date) - new Date(b.date);
-                });
+  <link rel="stylesheet" href="styles.css">
 
+  <!-- Google Analytics (kept from the original site) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6FS7JRHDZY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6FS7JRHDZY');
+  </script>
 
-            //TODO: filter data by promotion
-            
-            //create table
-            //TODO: add check to clear table if contents exist
-            container = $("#container");
-            table = $('<table class="table table-striped table-hover">');
-            cols =Object.keys(event_data[0]);
-
-            thead = $("<thead>");
-            tbody = $("<tbody>");
-            tr = $("<tr>");
-
-            $.each(cols, function(i, item){
-                if (i < 4 || i > 5) {
-                    th =  $("<th>");
-                    th.text(item);
-                    th.attr("id", item);
-                    tr.append(th);
-                }
-                
-                });
-            thead.append(tr);
-            table.append(thead);
-            
-
-            buildTable(event_data);
-            
-            table.append(tbody);
-            container.append(table);
-
-            $("#location").on("click", function() {
-                event_data.sort( (a,b) => {
-                    return distance(lat, long, a.lat, a.lon) - distance(lat, long, b.lat, b.lon);
-                });
-
-                $(".table").find("tbody").empty();
-
-                buildTable(event_data);
-
-                table.append(tbody);
-                container.append(table);
-            });
-            $("#date").on("click", function() {
-                event_data.sort( (a,b) => {
-                return new Date(a.date) - new Date(b.date);
-                });
-
-                $("#container").find("tbody").empty();
-                
-
-                buildTable(event_data);
-                table.append(tbody);
-                container.append(table);
-            });
-            
-        });
-        function getLocationData(position) {
-                lat = position.coords.latitude;
-                long = position.coords.longitude;
-                console.log("user loccation is " + lat + " lat and " + long + " long...");
-            }
-    });
- 
-    $( window ).on( "load", function() {
-        console.log( "window loaded" );
-    });
-    </script>
+  <!--
+    ADVERTISING
+    When you're approved for an ad network (e.g. Google AdSense), paste its
+    loader script here, then replace the placeholder inside each
+    <div class="ad" data-ad="..."> with the network's ad-unit snippet.
+    Set window.JJB_SHOW_AD_PLACEHOLDERS = false in app.js to hide empty slots.
+  -->
 </head>
 <body>
-    <div class="container-lg">
-        <div class="card">
-            <div class="card-body">
-                <h1 class="display-1 text-center card-title">Jiu Jitsu Bot</h2>
-                <p class="lead text-center card-text">Hi, I'm Jiu Jitsu Bot! Have you ever tried to find or schedule a jiu jitsu competition? If you have, you know the headache of juggling multiple tabs to crossreference promotions or dates within the same promotion. That's where I take over, scouring the internet for competitions and aggregating them in the table below to save time and energy. Click on the column headers to sort by promotion, date, or location. Feel free to <a href="https://ko-fi.com/jiujitsubot">donate here</a> if you find me useful!<p>
-            </div>
+  <a class="skip" href="#main">Skip to results</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="wordmark" href="#/events" aria-label="jiujitsu.bot home">
+        <span class="wordmark-text">jiujitsu.bot</span>
+        <span class="belt" aria-hidden="true"><span class="belt-bar"></span></span>
+      </a>
+      <nav class="tabs" aria-label="Views">
+        <a href="#/events" data-route="events">Events</a>
+        <a href="#/map" data-route="map">Map</a>
+        <a href="#/calendar" data-route="calendar">Calendar</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-btn" id="themeToggle" type="button" aria-label="Switch color theme" title="Switch color theme">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.39 5.39 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
+        </button>
+        <a class="btn btn-quiet support" href="https://ko-fi.com/jiujitsubot" target="_blank" rel="noopener">Support the site</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="ad ad-leaderboard" data-ad="leaderboard" aria-label="Advertisement"></div>
+  </div>
+
+  <!-- Shared filters: apply to Events, Map and Calendar -->
+  <section class="filters wrap" aria-label="Filter tournaments">
+    <div class="filter-main">
+      <label class="search">
+        <span class="sr-only">Search tournaments</span>
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M10 4a6 6 0 1 0 3.87 10.59l4.77 4.77 1.41-1.41-4.77-4.77A6 6 0 0 0 10 4zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>
+        <input id="q" type="search" placeholder="Search by name, city, state, country or venue" autocomplete="off">
+      </label>
+      <button class="btn btn-outline filters-toggle" id="filtersToggle" type="button" aria-expanded="false" aria-controls="filterPanel">
+        Filters <span class="count" id="filterCount" hidden></span>
+        <svg class="chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M7.4 8.6 12 13.2l4.6-4.6L18 10l-6 6-6-6z"/></svg>
+      </button>
+    </div>
+    <div class="active-filters" id="activeFilters" aria-label="Active filters"></div>
+
+    <div class="filter-panel" id="filterPanel">
+      <fieldset class="fgroup">
+        <legend>Promotion</legend>
+        <div class="chips" id="promoChips"></div>
+      </fieldset>
+
+      <fieldset class="fgroup">
+        <legend>Format</legend>
+        <div class="seg" role="radiogroup" id="formatSeg">
+          <label><input type="radio" name="format" value="" checked><span>Any</span></label>
+          <label><input type="radio" name="format" value="gi"><span>Gi</span></label>
+          <label><input type="radio" name="format" value="nogi"><span>No-Gi</span></label>
         </div>
+        <label class="check"><input type="checkbox" id="kidsOnly"> Kids &amp; youth events only</label>
+      </fieldset>
+
+      <fieldset class="fgroup">
+        <legend>Dates</legend>
+        <div class="daterange">
+          <label>From <input type="date" id="from"></label>
+          <label>To <input type="date" id="to"></label>
+        </div>
+        <label class="check"><input type="checkbox" id="showPast"> Include past events</label>
+      </fieldset>
+
+      <fieldset class="fgroup">
+        <legend>Near</legend>
+        <div class="near">
+          <form id="nearForm" class="near-form">
+            <label class="sr-only" for="nearInput">City or postal code</label>
+            <input id="nearInput" type="text" placeholder="City or postal code" autocomplete="off">
+            <button class="btn btn-outline" type="submit">Set</button>
+          </form>
+          <button class="linkish" id="useLocation" type="button">Use my location</button>
+        </div>
+        <div class="near-status" id="nearStatus" aria-live="polite"></div>
+        <label class="radius">Within
+          <select id="radius">
+            <option value="">any distance</option>
+            <option value="50">50 mi</option>
+            <option value="100">100 mi</option>
+            <option value="250">250 mi</option>
+            <option value="500">500 mi</option>
+            <option value="1000">1,000 mi</option>
+          </select>
+        </label>
+      </fieldset>
+
+      <div class="panel-foot">
+        <button class="linkish" id="clearFilters" type="button">Clear all filters</button>
+        <button class="btn btn-primary" id="closeFilters" type="button">Show results</button>
+      </div>
     </div>
-    <div id="container" class="container-xxl">
+  </section>
+
+  <main id="main" class="wrap">
+    <!-- EVENTS VIEW -->
+    <section class="view" data-view="events" hidden>
+      <div class="events-layout">
+        <div>
+          <div class="results-bar">
+            <p class="result-count" id="eventsCount" aria-live="polite"></p>
+            <label class="sort">Sort by
+              <select id="sort">
+                <option value="date">Date</option>
+                <option value="distance">Distance</option>
+                <option value="name">Name</option>
+                <option value="promotion">Promotion</option>
+              </select>
+            </label>
+          </div>
+          <div id="eventList" class="event-list"></div>
+        </div>
+        <aside class="rail">
+          <div class="ad ad-rect" data-ad="sidebar" aria-label="Advertisement"></div>
+          <div class="rail-card">
+            <h2>Promotions</h2>
+            <ul class="legend" id="legend"></ul>
+          </div>
+          <div class="ad ad-rect ad-sticky" data-ad="sidebar-2" aria-label="Advertisement"></div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- MAP VIEW -->
+    <section class="view" data-view="map" hidden>
+      <div class="map-layout">
+        <div class="map-wrap">
+          <div id="map" role="region" aria-label="Map of tournaments"></div>
+        </div>
+        <div class="map-side">
+          <div class="results-bar">
+            <p class="result-count" id="mapCount" aria-live="polite"></p>
+            <label class="check small"><input type="checkbox" id="boundsOnly" checked> Only list what's on the map</label>
+          </div>
+          <div id="mapList" class="event-list compact"></div>
+          <p class="note" id="mapMissing"></p>
+          <div class="ad ad-rect" data-ad="map-side" aria-label="Advertisement"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CALENDAR VIEW -->
+    <section class="view" data-view="calendar" hidden>
+      <div class="cal-toolbar">
+        <div class="cal-nav">
+          <button class="icon-btn" id="calPrev" type="button" aria-label="Previous month">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M15.4 7.4 14 6l-6 6 6 6 1.4-1.4L10.8 12z"/></svg>
+          </button>
+          <h2 id="calTitle" aria-live="polite"></h2>
+          <button class="icon-btn" id="calNext" type="button" aria-label="Next month">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8.6 16.6 10 18l6-6-6-6-1.4 1.4 4.6 4.6z"/></svg>
+          </button>
+          <button class="btn btn-outline" id="calToday" type="button">Today</button>
+        </div>
+        <div class="cal-actions">
+          <label class="check small"><input type="checkbox" id="calMineOnly"> Show my calendar only</label>
+          <button class="btn btn-outline" id="openAdd" type="button">Add an event</button>
+          <details class="menu">
+            <summary class="btn btn-primary">Export .ics</summary>
+            <div class="menu-pop">
+              <button type="button" data-export="mine">My calendar (saved + added)</button>
+              <button type="button" data-export="filtered">All events matching filters</button>
+              <button type="button" data-export="month">Everything shown this month</button>
+            </div>
+          </details>
+        </div>
+      </div>
+
+      <div class="cal-layout">
+        <div class="cal-grid-wrap">
+          <div class="cal-dow" aria-hidden="true"><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span><span>Sun</span></div>
+          <div class="cal-grid" id="calGrid" role="grid" aria-labelledby="calTitle"></div>
+          <div class="day-detail" id="dayDetail" aria-live="polite"></div>
+        </div>
+        <aside class="rail">
+          <div class="rail-card">
+            <h2>My calendar</h2>
+            <p class="muted small">Star events or add your own. Saved in this browser only.</p>
+            <ul class="mine" id="mineList"></ul>
+          </div>
+          <div class="ad ad-rect" data-ad="calendar-side" aria-label="Advertisement"></div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-row">
+      <div>
+        <p class="footer-lead">jiujitsu.bot collects tournaments from promotion websites so you don't have to juggle tabs. Dates and venues can change, so always confirm on the registration page.</p>
+        <p class="muted small">Questions or a promotion we're missing? <a href="mailto:hello@jiujitsu.bot">Email us</a>.</p>
+      </div>
+      <div class="footer-links">
+        <a class="btn btn-outline" href="https://www.instagram.com/jiujitsu.bot/" target="_blank" rel="noopener">Follow on Instagram</a>
+        <a class="btn btn-quiet" href="https://ko-fi.com/jiujitsubot" target="_blank" rel="noopener">Buy us a coffee on Ko-fi</a>
+      </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+  </footer>
+
+  <!-- Add-event dialog -->
+  <dialog id="addDialog" class="dialog">
+    <form method="dialog" id="addForm">
+      <h2>Add an event to my calendar</h2>
+      <p class="muted small">For your own plans: a seminar, open mat or a tournament we don't list yet. It's saved in this browser and included when you export.</p>
+      <label>Event name <input name="name" required maxlength="140"></label>
+      <div class="two">
+        <label>Start date <input name="date" type="date" required></label>
+        <label>End date <span class="muted">(optional)</span> <input name="end" type="date"></label>
+      </div>
+      <label>Location <input name="location" maxlength="160"></label>
+      <label>Link <input name="link" type="url" placeholder="https://"></label>
+      <label>Notes <textarea name="notes" rows="2" maxlength="500"></textarea></label>
+      <div class="dialog-actions">
+        <button class="btn btn-quiet" value="cancel" formnovalidate type="submit">Cancel</button>
+        <button class="btn btn-primary" value="save" type="submit">Save event</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+  <script src="app.js"></script>
 </body>
-<footer>
-    <div class="container footer">
-        <p class="lead">If you have problems using the site please contact <a href="mailto:botjiujitsu.com">us here</a>! If you like what you see or want to follow along for future updates, <a class="btn btn-primary" role="button"  href="https://www.instagram.com/jiujitsu.bot/">Follow</a> us on Instagram!</p>
-        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/jiujitsu.bot/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/jiujitsu.bot/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this profile on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">@<a href="https://www.instagram.com/jiujitsu.bot/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank">jiujitsu.bot</a> • Instagram photos and videos</p></div></blockquote>
-        <script async src="//www.instagram.com/embed.js"></script>
-    </div>      
-</footer>
 </html>
