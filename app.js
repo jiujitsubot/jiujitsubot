@@ -80,7 +80,7 @@
   // ---------------------------------------------------------------
   // Data cleanup (the scraped data is a little uneven)
   // ---------------------------------------------------------------
-  const KEEP_UPPER = new Set(['AJP', 'IBJJF', 'BJJ', 'AGF', 'TCO', 'UAE', 'USA', 'UK', 'NYC', 'II', 'III', 'IV', 'DC']);
+  const KEEP_UPPER = new Set(['AJP', 'IBJJF', 'BJJ', 'AGF', 'TCO', 'NAGA', 'ADCC', 'JJWL', 'UAE', 'USA', 'UK', 'NYC', 'II', 'III', 'IV', 'DC']);
   function tidyName(name) {
     name = String(name || '').replace(/\s+/g, ' ').trim();
     const letters = name.replace(/[^A-Za-z]/g, '');
