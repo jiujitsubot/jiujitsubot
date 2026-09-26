@@ -22,6 +22,11 @@
   --p-ajp: #a8285a;    /* raspberry */
   --p-agf: #8c5a00;    /* ochre */
   --p-tco: #55691a;    /* olive */
+  --p-naga: #2b54b8;   /* blue */
+  --p-adcc: #6d3fa6;   /* purple */
+  --p-jjwl: #b3521b;   /* burnt orange */
+  --p-fuji: #4b5563;   /* slate */
+  --p-newbreed: #1d7a3a; /* green */
   --p-mine: #c0272d;   /* your own events use the site's red */
 
   --display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
@@ -43,6 +48,7 @@ html { scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 72px); }
     --canvas: #16191d; --paper: #1f2328; --ink: #eceee9; --muted: #a2a8ae;
     --line: #333940; --line-strong: #4a5159; --hover: #282d33;
     --p-ibjjf: #4fc1ba; --p-ajp: #e27aa0; --p-agf: #d9a441; --p-tco: #a8c25a; --p-mine: #e0474d;
+    --p-naga: #7f9df0; --p-adcc: #b58ce6; --p-jjwl: #f0925a; --p-fuji: #a3acb9; --p-newbreed: #5cc97d;
     --bar: #e0474d; --focus: #e0474d; color-scheme: dark;
   }
 }
@@ -50,6 +56,7 @@ html { scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 72px); }
   --canvas: #16191d; --paper: #1f2328; --ink: #eceee9; --muted: #a2a8ae;
   --line: #333940; --line-strong: #4a5159; --hover: #282d33;
   --p-ibjjf: #4fc1ba; --p-ajp: #e27aa0; --p-agf: #d9a441; --p-tco: #a8c25a; --p-mine: #e0474d;
+  --p-naga: #7f9df0; --p-adcc: #b58ce6; --p-jjwl: #f0925a; --p-fuji: #a3acb9; --p-newbreed: #5cc97d;
   --bar: #e0474d; --focus: #e0474d; color-scheme: dark;
 }
 
