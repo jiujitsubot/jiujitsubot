@@ -310,6 +310,11 @@ input[type="date"], input[type="text"], input[type="url"], select, textarea {
 .leaflet-container { font-family: var(--body); }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--paper); color: var(--ink); }
 .leaflet-popup-content { margin: .75rem .9rem; }
+/* OpenStreetMap has no dark style, so invert its tiles in dark mode */
+:root[data-theme="dark"] .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.95) contrast(.9); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.95) contrast(.9); }
+}
 .popup h3 { font: 600 1rem/1.3 var(--body); margin: 0 0 .25rem; }
 .popup p { margin: 0 0 .5rem; color: var(--muted); font-size: .875rem; }
 .popup .btn { min-height: 34px; padding: .3rem .7rem; font-size: .875rem; color: var(--paper); }
