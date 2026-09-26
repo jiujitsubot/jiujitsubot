@@ -357,18 +357,16 @@
   // ---------------------------------------------------------------
   let map, tiles, cluster, originLayer, markersById = new Map(), mapNeedsFit = true;
 
-  function tileURL() {
-    const dark = document.documentElement.dataset.theme === 'dark' ||
-      (!document.documentElement.dataset.theme && matchMedia('(prefers-color-scheme: dark)').matches);
-    return `https://{s}.basemaps.cartocdn.com/${dark ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`;
-  }
+  // OpenStreetMap's own tiles: no API key needed, just the attribution below.
+  // Dark mode is done by inverting the tiles in styles.css.
+  const TILE_URL = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 
   function initMap() {
     if (map || !window.L) return;
     map = L.map('map', { worldCopyJump: true, zoomControl: true }).setView([30, -40], 2);
-    tiles = L.tileLayer(tileURL(), {
-      maxZoom: 18, subdomains: 'abcd',
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    tiles = L.tileLayer(TILE_URL, {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(map);
     cluster = L.markerClusterGroup({
       showCoverageOnHover: false, maxClusterRadius: 45,
@@ -789,7 +787,6 @@
       const current = root.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
       root.dataset.theme = current === 'dark' ? 'light' : 'dark';
       store.set('jjb.theme', root.dataset.theme);
-      if (tiles) tiles.setUrl(tileURL());
     });
 
     window.addEventListener('hashchange', () => { readURL(); mapNeedsFit = true; render(); });
