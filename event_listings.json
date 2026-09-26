@@ -1014,14 +1014,18 @@
   "promotion": "JJWL",
   "date": "2026-07-18",
   "name": "The Nationals West II Gi Adults and Masters",
-  "location": "Adventist Health Arena",
+  "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
+  "lat": "37.9568601",
+  "lon": "-121.2957416",
   "link": "https://www.jjworldleague.com/events/nationals-west-II-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-07-18",
   "name": "The Nationals West II NoGi Adults and Masters",
-  "location": "Adventist Health Arena",
+  "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
+  "lat": "37.9568601",
+  "lon": "-121.2957416",
   "link": "https://www.jjworldleague.com/events/nationals-west-II-nogi-adults"
  },
  {
@@ -1137,7 +1141,7 @@
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Houston XIX Gi Adults and Masters",
-  "location": "Fort Bend County Epicenter",
+  "location": "Fort Bend County Epicenter, 28505 Southwest Fwy, Rosenberg, TX 77471",
   "lat": "29.5297519",
   "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/houston-xix-gi-adults"
@@ -1146,7 +1150,7 @@
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Houston XIX NoGi Adults and Masters",
-  "location": "Fort Bend County Epicenter",
+  "location": "Fort Bend County Epicenter, 28505 Southwest Fwy, Rosenberg, TX 77471",
   "lat": "29.5297519",
   "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/houston-xix-nogi-adults"
@@ -1200,18 +1204,18 @@
   "promotion": "JJWL",
   "date": "2026-08-29",
   "name": "Dallas XV GI Adults and Masters",
-  "location": "Comerica Center",
-  "lat": "33.1005522",
-  "lon": "-96.8194322",
+  "location": "Comerica Center, 2601 Avenue of the Stars - Frisco, TX 75034",
+  "lat": "33.1005620",
+  "lon": "-96.8192075",
   "link": "https://www.jjworldleague.com/events/dallas-xv-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-08-29",
   "name": "Dallas XV NoGI Adults and Masters",
-  "location": "Comerica Center",
-  "lat": "33.1005522",
-  "lon": "-96.8194322",
+  "location": "Comerica Center, 2601 Avenue of the Stars - Frisco, TX 75034",
+  "lat": "33.1005620",
+  "lon": "-96.8192075",
   "link": "https://www.jjworldleague.com/events/dallas-xv-nogi-adults"
  },
  {
@@ -1363,7 +1367,7 @@
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Florida XIII Gi Adults and Masters",
-  "location": "Silver Spurs Arena",
+  "location": "Silver Spurs Arena, 1875 Silver Spur Ln, Kissimmee, FL 34744",
   "lat": "28.2989694",
   "lon": "-81.3690129",
   "link": "https://www.jjworldleague.com/events/florida-xiii-gi-adults"
@@ -1372,7 +1376,7 @@
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Florida XIII NoGi Adults and Masters",
-  "location": "Silver Spurs Arena",
+  "location": "Silver Spurs Arena, 1875 Silver Spur Ln, Kissimmee, FL 34744",
   "lat": "28.2989694",
   "lon": "-81.3690129",
   "link": "https://www.jjworldleague.com/events/florida-xiii-nogi-adults"
@@ -1381,14 +1385,18 @@
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Golden State XVII Gi Adults and Masters",
-  "location": "Adventist Health Arena",
+  "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
+  "lat": "37.9568601",
+  "lon": "-121.2957416",
   "link": "https://www.jjworldleague.com/events/gs-xvii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Golden State XVII NoGi Adults and Masters",
-  "location": "Adventist Health Arena",
+  "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
+  "lat": "37.9568601",
+  "lon": "-121.2957416",
   "link": "https://www.jjworldleague.com/events/gs-xvii-nogi-adults"
  },
  {
@@ -1396,8 +1404,8 @@
   "date": "2026-09-20",
   "name": "AJP NO-GI SIBERIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "Sport Complex \u201cEnergiya\u201d, Novosibirsk, Russia \ud83c\uddf7\ud83c\uddfa",
-  "lat": "54.9678145",
-  "lon": "82.9515989",
+  "lat": "55.0288307",
+  "lon": "82.9226887",
   "link": "https://ajptour.com/en/event/1510"
  },
  {
@@ -1405,8 +1413,8 @@
   "date": "2026-09-20",
   "name": "AJP TOUR SIBERIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "Sport Complex \u201cEnergiya\u201d, Novosibirsk, Russia \ud83c\uddf7\ud83c\uddfa",
-  "lat": "54.9678145",
-  "lon": "82.9515989",
+  "lat": "55.0288307",
+  "lon": "82.9226887",
   "link": "https://ajptour.com/en/event/1510"
  },
  {
@@ -2048,18 +2056,18 @@
   "promotion": "JJWL",
   "date": "2026-10-10",
   "name": "San Diego XIX GI Adults and Masters",
-  "location": "Del Mar Fairgrounds",
-  "lat": "32.9757807",
-  "lon": "-117.2617339",
+  "location": "Del Mar Fairgrounds, 2260 Jimmy Durante Blvd, Del Mar, CA 92014",
+  "lat": "32.9705342",
+  "lon": "-117.2630112",
   "link": "https://www.jjworldleague.com/events/san-diego-xix-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-10-10",
   "name": "San Diego XIX NoGI Adults and Masters",
-  "location": "Del Mar Fairgrounds",
-  "lat": "32.9757807",
-  "lon": "-117.2617339",
+  "location": "Del Mar Fairgrounds, 2260 Jimmy Durante Blvd, Del Mar, CA 92014",
+  "lat": "32.9705342",
+  "lon": "-117.2630112",
   "link": "https://www.jjworldleague.com/events/san-diego-xix-nogi-adults"
  },
  {
@@ -2476,7 +2484,7 @@
   "promotion": "JJWL",
   "date": "2026-10-17",
   "name": "The Nationals South II Gi Adults and Masters",
-  "location": "Fort Bend County Epicenter",
+  "location": "Fort Bend County Epicenter, 28505 Southwest Fwy, Rosenberg, TX 77471",
   "lat": "29.5297519",
   "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/nat-south-ii-gi-adults"
@@ -2485,7 +2493,7 @@
   "promotion": "JJWL",
   "date": "2026-10-17",
   "name": "The Nationals South II NoGi Adults and Masters",
-  "location": "Fort Bend County Epicenter",
+  "location": "Fort Bend County Epicenter, 28505 Southwest Fwy, Rosenberg, TX 77471",
   "lat": "29.5297519",
   "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/nat-south-ii-nogi-adults"
@@ -3176,18 +3184,18 @@
   "promotion": "JJWL",
   "date": "2026-11-07",
   "name": "The Finals Texas 2026 GI Adults and Masters",
-  "location": "Comerica Center",
-  "lat": "33.1005522",
-  "lon": "-96.8194322",
+  "location": "Comerica Center, 2601 Avenue of the Stars - Frisco, TX 75034",
+  "lat": "33.1005620",
+  "lon": "-96.8192075",
   "link": "https://www.jjworldleague.com/events/texas-finals-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-07",
   "name": "The Finals Texas 2026 NoGI Adults and Masters",
-  "location": "Comerica Center",
-  "lat": "33.1005522",
-  "lon": "-96.8194322",
+  "location": "Comerica Center, 2601 Avenue of the Stars - Frisco, TX 75034",
+  "lat": "33.1005620",
+  "lon": "-96.8192075",
   "link": "https://www.jjworldleague.com/events/texas-finals-2026-nogi-adults"
  },
  {
@@ -3462,8 +3470,8 @@
   "date": "2026-11-14",
   "name": "Orlando Grappling & BJJ Championship \u2013 Orlando, FL",
   "location": "Central Florida Fairgrounds, Orlando, FL",
-  "lat": "28.5523525",
-  "lon": "-81.4392060",
+  "lat": "28.5527506",
+  "lon": "-81.4372789",
   "link": "https://www.nagafighter.com/event/orlando-grappling-bjj-championship-orlando-fl-6/"
  },
  {
@@ -3650,28 +3658,36 @@
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals Florida 2026 Gi Adults and Masters",
-  "location": "Jenkins Arena",
+  "location": "Jenkins Arena, 701 W Lime St, Lakeland, FL 33815, USA",
+  "lat": "28.0412953",
+  "lon": "-81.9631757",
   "link": "https://www.jjworldleague.com/events/finals-fl-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals Florida 2026 NoGi Adults and Masters",
-  "location": "Jenkins Arena",
+  "location": "Jenkins Arena, 701 W Lime St, Lakeland, FL 33815, USA",
+  "lat": "28.0412953",
+  "lon": "-81.9631757",
   "link": "https://www.jjworldleague.com/events/finals-fl-2026-nogi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals NorCal 2026 Gi Adults and Masters",
-  "location": "Adventist Health Arena",
+  "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
+  "lat": "37.9568601",
+  "lon": "-121.2957416",
   "link": "https://www.jjworldleague.com/events/finals-norcal-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals NorCal 2026 NoGi Adults and Masters",
-  "location": "Adventist Health Arena",
+  "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
+  "lat": "37.9568601",
+  "lon": "-121.2957416",
   "link": "https://www.jjworldleague.com/events/finals-norcal-2026-nogi-adults"
  },
  {
@@ -3801,8 +3817,8 @@
   "date": "2026-11-28",
   "name": "Paris Fall International Open IBJJF Jiu-Jitsu Championship 2026",
   "location": "Salle Charpy - Stade Charl\u00e9ty, Paris",
-  "lat": "48.8534951",
-  "lon": "2.3483915",
+  "lat": "48.8588897",
+  "lon": "2.3200410",
   "link": "https://ibjjf.com/events/paris-fall-international-open-ibjjf-jiu-jitsu-championship-2026"
  },
  {
@@ -3810,8 +3826,8 @@
   "date": "2026-11-28",
   "name": "Paris Fall International Open IBJJF Jiu-Jitsu No-Gi Championship 2026",
   "location": "Salle Charpy - Stade Charl\u00e9ty, Paris",
-  "lat": "48.8534951",
-  "lon": "2.3483915",
+  "lat": "48.8588897",
+  "lon": "2.3200410",
   "link": "https://ibjjf.com/events/paris-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026"
  },
  {
@@ -4801,7 +4817,7 @@
  {
   "promotion": "AJP",
   "date": "2027-02-21",
-  "name": "February 21",
+  "name": "AJP event \u2013 Saint Petersburg (details TBA)",
   "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "59.9606739",
   "lon": "30.1586551",
@@ -4918,7 +4934,7 @@
  {
   "promotion": "AJP",
   "date": "2027-03-21",
-  "name": "March 21",
+  "name": "AJP event \u2013 Moscow (details TBA)",
   "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "55.6255780",
   "lon": "37.6063916",
@@ -4990,7 +5006,7 @@
  {
   "promotion": "AJP",
   "date": "2027-04-18",
-  "name": "April 18",
+  "name": "AJP event \u2013 Moscow (details TBA)",
   "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "55.6255780",
   "lon": "37.6063916",
@@ -5008,7 +5024,7 @@
  {
   "promotion": "AJP",
   "date": "2027-05-16",
-  "name": "May 16",
+  "name": "AJP event \u2013 Saint Petersburg (details TBA)",
   "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "59.9606739",
   "lon": "30.1586551",
@@ -5017,7 +5033,7 @@
  {
   "promotion": "AJP",
   "date": "2027-06-06",
-  "name": "June 6",
+  "name": "AJP event \u2013 Moscow (details TBA)",
   "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "55.6255780",
   "lon": "37.6063916",
@@ -5053,7 +5069,7 @@
  {
   "promotion": "AJP",
   "date": "2027-08-28",
-  "name": "August 28-29",
+  "name": "AJP event \u2013 Moscow (details TBA)",
   "location": "Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "64.6863136",
   "lon": "97.7453061",
@@ -5080,7 +5096,7 @@
  {
   "promotion": "AJP",
   "date": "2027-09-19",
-  "name": "September 19",
+  "name": "AJP event \u2013 Saint Petersburg (details TBA)",
   "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "59.9606739",
   "lon": "30.1586551",
@@ -5089,7 +5105,7 @@
  {
   "promotion": "AJP",
   "date": "2027-10-03",
-  "name": "October 3",
+  "name": "AJP event \u2013 Moscow (details TBA)",
   "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "55.6255780",
   "lon": "37.6063916",
@@ -5098,7 +5114,7 @@
  {
   "promotion": "AJP",
   "date": "2027-10-17",
-  "name": "October 17",
+  "name": "AJP event \u2013 Saint Petersburg (details TBA)",
   "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "59.9606739",
   "lon": "30.1586551",
@@ -5107,7 +5123,7 @@
  {
   "promotion": "AJP",
   "date": "2027-10-31",
-  "name": "October 31",
+  "name": "AJP event \u2013 Moscow (details TBA)",
   "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
   "lat": "55.6255780",
   "lon": "37.6063916",
