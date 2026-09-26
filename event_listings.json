@@ -1,5 +1,1002 @@
 [
  {
+  "promotion": "AJP",
+  "date": "2026-01-16",
+  "name": "AJP TOUR ABU DHABI INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Mubadal Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1400"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-01",
+  "name": "AJP NO-GI RUSSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "SAMBO-70, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1385"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-01",
+  "name": "AJP TOUR RUSSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "SAMBO-70, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1385"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-07",
+  "name": "AJP NO-GI WEST ROMANIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sala De Sport A Universitatii \u201cAurel Vlaicu\u201d, Arad, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "46.1753793",
+  "lon": "21.3196342",
+  "link": "https://ajptour.com/en/event/1421"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-07",
+  "name": "AJP NO-GI ZURICH INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Mehrzweckhalle Wallisellen, Zurich, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "47.3744489",
+  "lon": "8.5410422",
+  "link": "https://ajptour.com/en/event/1419"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-07",
+  "name": "AJP TOUR WEST ROMANIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sala De Sport A Universitatii \u201cAurel Vlaicu\u201d, Arad, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "46.1753793",
+  "lon": "21.3196342",
+  "link": "https://ajptour.com/en/event/1421"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-07",
+  "name": "AJP TOUR ZURICH INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Mehrzweckhalle Wallisellen, Zurich, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "47.3744489",
+  "lon": "8.5410422",
+  "link": "https://ajptour.com/en/event/1419"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-08",
+  "name": "AJP NO-GI VALENCIA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Pabell\u00f3n Malvarrosa, Valencia, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "39.4697065",
+  "lon": "-0.3763353",
+  "link": "https://ajptour.com/en/event/1420"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-08",
+  "name": "AJP TOUR VALENCIA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Pabell\u00f3n Malvarrosa, Valencia, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "39.4697065",
+  "lon": "-0.3763353",
+  "link": "https://ajptour.com/en/event/1420"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-13",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ROME - AMATEURS",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1363"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-13",
+  "name": "AJP NO-GI AMMAN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Prince Hamzah Hall, Amman, Jordan \ud83c\uddef\ud83c\uddf4",
+  "lat": "31.9515694",
+  "lon": "35.9239625",
+  "link": "https://ajptour.com/en/event/1441"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-13",
+  "name": "AJP NO-GI ROME INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1365"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-13",
+  "name": "AJP TOUR AMMAN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Prince Hamzah Hall, Amman, Jordan \ud83c\uddef\ud83c\uddf4",
+  "lat": "31.9515694",
+  "lon": "35.9239625",
+  "link": "https://ajptour.com/en/event/1441"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-14",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ROME - MASTERS",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1361"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-14",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ROME - YOUTH",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1362"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-15",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ROME - PROFESSIONAL",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1364"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-28",
+  "name": "AJP NO-GI COLOMBIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Coliseo El Salitre, Bogota, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "4.6533817",
+  "lon": "-74.0836331",
+  "link": "https://ajptour.com/en/event/1423"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-28",
+  "name": "AJP NO-GI SOUTH RUSSIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Don Sportivnyy Kompleks, Rostov-On-Don, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "47.2610441",
+  "lon": "39.7249086",
+  "link": "https://ajptour.com/en/event/1440"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-28",
+  "name": "AJP TOUR COLOMBIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Coliseo El Salitre, Bogota, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "4.6533817",
+  "lon": "-74.0836331",
+  "link": "https://ajptour.com/en/event/1423"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-02-28",
+  "name": "AJP TOUR SOUTH RUSSIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Don Sportivnyy Kompleks, Rostov-On-Don, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "47.2610441",
+  "lon": "39.7249086",
+  "link": "https://ajptour.com/en/event/1440"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-07",
+  "name": "AJP NO-GI SLOVAKIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "\u0160portov\u00e1 hala, Bratislava, Slovakia \ud83c\uddf8\ud83c\uddf0",
+  "lat": "48.1516988",
+  "lon": "17.1093063",
+  "link": "https://ajptour.com/en/event/1415"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-07",
+  "name": "AJP TOUR SLOVAKIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "\u0160portov\u00e1 hala, Bratislava, Slovakia \ud83c\uddf8\ud83c\uddf0",
+  "lat": "48.1516988",
+  "lon": "17.1093063",
+  "link": "https://ajptour.com/en/event/1415"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-08",
+  "name": "AJP NO-GI NORTHWEST RUSSIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Platonova Academy, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1432"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-08",
+  "name": "AJP TOUR NORTHWEST RUSSIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Platonova Academy, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1432"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-14",
+  "name": "AJP NO-GI SEVILLA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Polideportivo Municipal Pepe Flores, Sevilla, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "37.3886303",
+  "lon": "-5.9953403",
+  "link": "https://ajptour.com/en/event/1475"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-14",
+  "name": "AJP TOUR SEVILLA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Polideportivo Municipal Pepe Flores, Sevilla, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "37.3886303",
+  "lon": "-5.9953403",
+  "link": "https://ajptour.com/en/event/1475"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-21",
+  "name": "AJP NO-GI LITHUANIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Kaunas sports hall, Kaunas, Lithuania \ud83c\uddf1\ud83c\uddf9",
+  "lat": "54.8982139",
+  "lon": "23.9044817",
+  "link": "https://ajptour.com/en/event/1427"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-21",
+  "name": "AJP NO-GI SERBIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sportska Hala Mika Anti\u0107, Ni\u0161, Serbia \ud83c\uddf7\ud83c\uddf8",
+  "lat": "43.3211301",
+  "lon": "21.8959232",
+  "link": "https://ajptour.com/en/event/1422"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-21",
+  "name": "AJP NO-GI TERESINA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Gin\u00e1sio do Centro de Treinamento e Conviv\u00eancia Instituto Dom Barreto - CTIDB, Piau\u00ed, Brazil\ud83c\udde7\ud83c\uddf7",
+  "lat": "-7.6992782",
+  "lon": "-42.5043787",
+  "link": "https://ajptour.com/en/event/1397"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-21",
+  "name": "AJP TOUR LITHUANIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Kaunas sports hall, Kaunas, Lithuania \ud83c\uddf1\ud83c\uddf9",
+  "lat": "54.8982139",
+  "lon": "23.9044817",
+  "link": "https://ajptour.com/en/event/1427"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-21",
+  "name": "AJP TOUR SERBIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sportska Hala Mika Anti\u0107, Ni\u0161, Serbia \ud83c\uddf7\ud83c\uddf8",
+  "lat": "43.3211301",
+  "lon": "21.8959232",
+  "link": "https://ajptour.com/en/event/1422"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-21",
+  "name": "AJP TOUR TERESINA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Gin\u00e1sio do Centro de Treinamento e Conviv\u00eancia Instituto Dom Barreto - CTIDB, Piau\u00ed, Brazil \ud83c\udde7\ud83c\uddf7",
+  "lat": "-7.6992782",
+  "lon": "-42.5043787",
+  "link": "https://ajptour.com/en/event/1397"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-22",
+  "name": "AJP NO-GI BOLOGNA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2025",
+  "location": "Palasavena, Bologna, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "44.4938203",
+  "lon": "11.3426327",
+  "link": "https://ajptour.com/en/event/1446"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-22",
+  "name": "AJP TOUR BOLOGNA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2025 - GI",
+  "location": "Palasavena, Bologna, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "44.4938203",
+  "lon": "11.3426327",
+  "link": "https://ajptour.com/en/event/1446"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-28",
+  "name": "AJP NO-GI ISTANBUL INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Beylikd\u00fcz\u00fc Spor Kompleksi, Turkey, Istanbul \ud83c\uddf9\ud83c\uddf7",
+  "lat": "41.0063810",
+  "lon": "28.9758715",
+  "link": "https://ajptour.com/en/event/1469"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-28",
+  "name": "AJP TOUR ISTANBUL INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Beylikd\u00fcz\u00fc Spor Kompleksi, Turkey, Istanbul \ud83c\uddf9\ud83c\uddf7",
+  "lat": "41.0063810",
+  "lon": "28.9758715",
+  "link": "https://ajptour.com/en/event/1469"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-29",
+  "name": "AJP LUANDA JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "Clube Ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1461"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-03-29",
+  "name": "AJP MOSCOW JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "Centre of Sport and Education Sambo-70, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1467"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-05",
+  "name": "AJP NO-GI BARCELONA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "La Mar Bella Municipal Sports Complex, Barcelona, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "41.3825802",
+  "lon": "2.1770730",
+  "link": "https://ajptour.com/en/event/1480"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-05",
+  "name": "AJP TOUR BARCELONA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "La Mar Bella Municipal Sports Complex, Barcelona, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "41.3825802",
+  "lon": "2.1770730",
+  "link": "https://ajptour.com/en/event/1480"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-11",
+  "name": "AJP NO-GI BERN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sporthalle Wankdorf, Bern, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "46.9484742",
+  "lon": "7.4521749",
+  "link": "https://ajptour.com/en/event/1486"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-11",
+  "name": "AJP TOUR BERN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sporthalle Wankdorf, Bern, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "46.9484742",
+  "lon": "7.4521749",
+  "link": "https://ajptour.com/en/event/1486"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-18",
+  "name": "AJP NO-GI MEXICO CITY INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Deportivo Jos\u00e9 Mar\u00eda Morelos y Pavon, Ciudad de Mexico, Mexico \ud83c\uddf2\ud83c\uddfd",
+  "lat": "19.4326296",
+  "lon": "-99.1331785",
+  "link": "https://ajptour.com/en/event/1483"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-18",
+  "name": "AJP NO-GI TURIN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Palazzo dello Sport Ruffini, Turin, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "45.0677551",
+  "lon": "7.6824892",
+  "link": "https://ajptour.com/en/event/1451"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-18",
+  "name": "AJP TOUR MEXICO CITY INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Deportivo Jos\u00e9 Mar\u00eda Morelos y Pavon, Ciudad de Mexico, Mexico \ud83c\uddf2\ud83c\uddfd",
+  "lat": "19.4326296",
+  "lon": "-99.1331785",
+  "link": "https://ajptour.com/en/event/1483"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-18",
+  "name": "AJP TOUR TURIN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 GI",
+  "location": "Palazzo dello Sport Ruffini, Turin, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "45.0677551",
+  "lon": "7.6824892",
+  "link": "https://ajptour.com/en/event/1451"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-19",
+  "name": "AJP NO-GI AUSTRALIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Heffron Centre, Sydney, Australia \ud83c\udde6\ud83c\uddfa",
+  "lat": "-33.8698439",
+  "lon": "151.2082848",
+  "link": "https://ajptour.com/en/event/1439"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-19",
+  "name": "AJP NO-GI MOSCOW INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Centre of Sport and Education Sambo-70, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1502"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-19",
+  "name": "AJP TOUR AUSTRALIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Heffron Centre, Sydney, Australia \ud83c\udde6\ud83c\uddfa",
+  "lat": "-33.8698439",
+  "lon": "151.2082848",
+  "link": "https://ajptour.com/en/event/1439"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-19",
+  "name": "AJP TOUR MOSCOW INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Centre of Sport and Education Sambo-70, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1502"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-25",
+  "name": "AJP NO-GI CENTRAL EUROPE REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "SW Arminen, Vienna, Austria \ud83c\udde6\ud83c\uddf9",
+  "lat": "48.2083537",
+  "lon": "16.3725042",
+  "link": "https://ajptour.com/en/event/1459"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-04-25",
+  "name": "AJP TOUR CENTRAL EUROPE REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "SW Arminen, Vienna, Austria \ud83c\udde6\ud83c\uddf9",
+  "lat": "48.2083537",
+  "lon": "16.3725042",
+  "link": "https://ajptour.com/en/event/1459"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-02",
+  "name": "AJP NO-GI BENGUELA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Pavilh\u00e3o Casa do pessoal Do Porto do Lobito, Lobito, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-12.3506867",
+  "lon": "13.5464318",
+  "link": "https://ajptour.com/en/event/1463"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-02",
+  "name": "AJP NO-GI EUROPE CONTINENTAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Bah\u00e7elievler Gen\u00e7lik Ve Spor \u0130l\u00e7e M\u00fcd\u00fcrl\u00fc\u011f\u00fc, Istanbul, Turkey \ud83c\uddf9\ud83c\uddf7",
+  "lat": "45.7581012",
+  "lon": "8.5578947",
+  "link": "https://ajptour.com/en/event/1476"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-02",
+  "name": "AJP TOUR BENGUELA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Pavilh\u00e3o Casa do pessoal Do Porto do Lobito, Lobito, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-12.3506867",
+  "lon": "13.5464318",
+  "link": "https://ajptour.com/en/event/1463"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-03",
+  "name": "AJP NO-GI KAVKAZ REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Dynamo Sports Club, Yerevan, Armenia \ud83c\udde6\ud83c\uddf2",
+  "lat": "40.1777112",
+  "lon": "44.5126233",
+  "link": "https://ajptour.com/en/event/1473"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-03",
+  "name": "AJP TOUR KAVKAZ REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Dynamo Sports Club, Yerevan, Armenia \ud83c\udde6\ud83c\uddf2",
+  "lat": "40.1777112",
+  "lon": "44.5126233",
+  "link": "https://ajptour.com/en/event/1473"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-14",
+  "name": "AJP TOUR DORNOGOBI REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Dornogobi Sport Palace, Sainsahnd, Mongolia \ud83c\uddf2\ud83c\uddf3",
+  "link": "https://ajptour.com/en/event/1490"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-15",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ABU DHABI - AMATEURS",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1390"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-15",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ABU DHABI - MASTERS",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1389"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ABU DHABI - YOUTH",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1391"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "AJP NO-GI BRASOV INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sport Arena Ghimbav, Brasov, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "45.6525105",
+  "lon": "25.6105654",
+  "link": "https://ajptour.com/en/event/1505"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "AJP NO-GI ERLIAN REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Erenhot International Exhibition Center, Erenhot, China \ud83c\udde8\ud83c\uddf3",
+  "lat": "43.6407813",
+  "lon": "111.9435190",
+  "link": "https://ajptour.com/en/event/1489"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "AJP NO-GI MOSQUERA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Coliseo Nuevo, Mosquera, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "4.7002001",
+  "lon": "-74.2385058",
+  "link": "https://ajptour.com/en/event/1424"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "AJP TOUR BRASOV INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sport Arena Ghimbav, Brasov, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "45.6525105",
+  "lon": "25.6105654",
+  "link": "https://ajptour.com/en/event/1505"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "AJP TOUR ERLIAN REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Erenhot International Exhibition Center, Erenhot, China \ud83c\udde8\ud83c\uddf3",
+  "lat": "43.6407813",
+  "lon": "111.9435190",
+  "link": "https://ajptour.com/en/event/1489"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-16",
+  "name": "AJP TOUR MOSQUERA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Coliseo Nuevo, Mosquera, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "4.7002001",
+  "lon": "-74.2385058",
+  "link": "https://ajptour.com/en/event/1424"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-17",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2025-2026 - ABU DHABI - PROFESSIONAL",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1392"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-17",
+  "name": "AJP SAINT PETERSBURG JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "Platonova Academy, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1508"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-23",
+  "name": "AJP NO-GI CYPRUS NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Agios Dometios Sports Center, Nicosia, Cyprus \ud83c\udde8\ud83c\uddfe",
+  "lat": "35.1746503",
+  "lon": "33.3638783",
+  "link": "https://ajptour.com/en/event/1468"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-23",
+  "name": "AJP TOUR CYPRUS NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Agios Dometios Sports Center, Nicosia, Cyprus \ud83c\udde8\ud83c\uddfe",
+  "lat": "35.1746503",
+  "lon": "33.3638783",
+  "link": "https://ajptour.com/en/event/1468"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-24",
+  "name": "AJP NO-GI ALICANTE INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Ciutat Esportiva Camilo Cano, Alicante, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "38.3436365",
+  "lon": "-0.4881708",
+  "link": "https://ajptour.com/en/event/1500"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-24",
+  "name": "AJP TOUR ALICANTE INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Ciutat Esportiva Camilo Cano, Alicante, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "38.3436365",
+  "lon": "-0.4881708",
+  "link": "https://ajptour.com/en/event/1500"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-30",
+  "name": "AJP NO-GI GEORGIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "New Sport Palace, Tbilisi, Georgia \ud83c\uddec\ud83c\uddea",
+  "lat": "41.6934591",
+  "lon": "44.8014495",
+  "link": "https://ajptour.com/en/event/1445"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-30",
+  "name": "AJP NO-GI HAMBURG INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sporthalle Wandsbek, Hamburg, Germany \ud83c\udde9\ud83c\uddea",
+  "lat": "53.5501721",
+  "lon": "10.0013165",
+  "link": "https://ajptour.com/en/event/1436"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-30",
+  "name": "AJP TOUR GEORGIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "New Sport Palace, Tbilisi, Georgia \ud83c\uddec\ud83c\uddea",
+  "lat": "41.6934591",
+  "lon": "44.8014495",
+  "link": "https://ajptour.com/en/event/1445"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-30",
+  "name": "AJP TOUR HAMBURG INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sporthalle Wandsbek, Hamburg, Germany \ud83c\udde9\ud83c\uddea",
+  "lat": "53.5501721",
+  "lon": "10.0013165",
+  "link": "https://ajptour.com/en/event/1436"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-31",
+  "name": "AJP NO-GI CAPE TOWN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "German International School, Cape Town, South Africa \ud83c\uddff\ud83c\udde6",
+  "lat": "-33.9288301",
+  "lon": "18.4172197",
+  "link": "https://ajptour.com/en/event/1452"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-31",
+  "name": "AJP NO-GI ESTONIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Tallinna Linnam\u00e4e Vene L\u00fctseum, Tallinn, Estonia \ud83c\uddea\ud83c\uddea",
+  "lat": "59.4372420",
+  "lon": "24.7572693",
+  "link": "https://ajptour.com/en/event/1507"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-31",
+  "name": "AJP NO-GI FLORENCE-PRATO INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Pala Kobilica Estraforum - Palazzetto dello sport di Maliseti, Prato, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "43.9357181",
+  "lon": "11.0941473",
+  "link": "https://ajptour.com/en/event/1495"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-31",
+  "name": "AJP TOUR CAPE TOWN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "German International School, Cape Town, South Africa \ud83c\uddff\ud83c\udde6",
+  "lat": "-33.9288301",
+  "lon": "18.4172197",
+  "link": "https://ajptour.com/en/event/1452"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-31",
+  "name": "AJP TOUR ESTONIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Tallinna Linnam\u00e4e Vene L\u00fctseum, Tallinn, Estonia \ud83c\uddea\ud83c\uddea",
+  "lat": "59.4372420",
+  "lon": "24.7572693",
+  "link": "https://ajptour.com/en/event/1507"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-05-31",
+  "name": "AJP TOUR FLORENCE-PRATO INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Pala Kobilica Estraforum - Palazzetto dello sport di Maliseti, Prato, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "43.9357181",
+  "lon": "11.0941473",
+  "link": "https://ajptour.com/en/event/1495"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-06",
+  "name": "AJP NO-GI GREECE NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Dais Athletic Center Amarousio, Athens, Greece \ud83c\uddec\ud83c\uddf7",
+  "lat": "37.9755648",
+  "lon": "23.7348324",
+  "link": "https://ajptour.com/en/event/1453"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-06",
+  "name": "AJP TOUR GREECE NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Dais Athletic Center Amarousio, Athens, Greece \ud83c\uddec\ud83c\uddf7",
+  "lat": "37.9755648",
+  "lon": "23.7348324",
+  "link": "https://ajptour.com/en/event/1453"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-07",
+  "name": "AJP LUANDA JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "Clube Ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1464"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-07",
+  "name": "AJP MOSCOW JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "Centre of Sport and Education Sambo-70, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1513"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-07",
+  "name": "AJP NO-GI LUANDA JIU-JITSU FESTIVAL 2026",
+  "location": "Clube Ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1464"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-07",
+  "name": "AJP NO-GI WEST EUROPE REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Poliesportiu Municipal Camp del Ferro, Barcelona, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "41.3825802",
+  "lon": "2.1770730",
+  "link": "https://ajptour.com/en/event/1450"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-07",
+  "name": "AJP TOUR WEST EUROPE REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Poliesportiu Municipal Camp del Ferro, Barcelona, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "41.3825802",
+  "lon": "2.1770730",
+  "link": "https://ajptour.com/en/event/1450"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-12",
+  "name": "AJP TOUR UAE NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1404"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-13",
+  "name": "AJP NO-GI KASTAV INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sports Hall of Kastav, Kastav, Croatia \ud83c\udded\ud83c\uddf7",
+  "lat": "45.3731673",
+  "lon": "14.3487225",
+  "link": "https://ajptour.com/en/event/1477"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-13",
+  "name": "AJP NO-GI SINES INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Pavilh\u00e3o Multiusos de Sines, Sines, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "37.9565490",
+  "lon": "-8.8689639",
+  "link": "https://ajptour.com/en/event/1520"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-13",
+  "name": "AJP TOUR KASTAV INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sports Hall of Kastav, Kastav, Croatia \ud83c\udded\ud83c\uddf7",
+  "lat": "45.3731673",
+  "lon": "14.3487225",
+  "link": "https://ajptour.com/en/event/1477"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-13",
+  "name": "AJP TOUR SINES INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Pavilh\u00e3o Multiusos de Sines, Sines, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "37.9565490",
+  "lon": "-8.8689639",
+  "link": "https://ajptour.com/en/event/1520"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-19",
+  "name": "AJP NO-GI ISTANBUL MARMARA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Complex Istanbul, Turkey, Istanbul \ud83c\uddf9\ud83c\uddf7",
+  "lat": "41.0063810",
+  "lon": "28.9758715",
+  "link": "https://ajptour.com/en/event/1479"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-26",
+  "name": "AJP NO-GI DOHA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Aspire Ladies Sports Hall, Doha, Qatar \ud83c\uddf6\ud83c\udde6",
+  "lat": "25.3108807",
+  "lon": "51.5081812",
+  "link": "https://ajptour.com/en/event/1411"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-27",
+  "name": "AJP NO-GI MALAYSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "REKASCAPE, Persiaran APEC, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia \ud83c\uddf2\ud83c\uddfe",
+  "lat": "2.9441693",
+  "lon": "101.6610677",
+  "link": "https://ajptour.com/en/event/1496"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-27",
+  "name": "AJP NO-GI NEUCHATEL INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Halle de sport de la Riveraine, Neuchatel, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "46.9895828",
+  "lon": "6.9292641",
+  "link": "https://ajptour.com/en/event/1501"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-27",
+  "name": "AJP TOUR MALAYSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "REKASCAPE, Persiaran APEC, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia \ud83c\uddf2\ud83c\uddfe",
+  "lat": "2.9441693",
+  "lon": "101.6610677",
+  "link": "https://ajptour.com/en/event/1496"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-27",
+  "name": "AJP TOUR NEUCHATEL INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Halle de sport de la Riveraine, Neuchatel, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "46.9895828",
+  "lon": "6.9292641",
+  "link": "https://ajptour.com/en/event/1501"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-06-28",
+  "name": "AJP TOUR ARMENIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Dinamo sport club, Yerevan, Armenia \ud83c\udde6\ud83c\uddf2",
+  "lat": "40.1777112",
+  "lon": "44.5126233",
+  "link": "https://ajptour.com/en/event/1514"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-04",
+  "name": "AJP NO-GI ROMANIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sala Polivalent\u0103 Bucure\u0219ti, Bucure\u0219ti, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "44.4361414",
+  "lon": "26.1026840",
+  "link": "https://ajptour.com/en/event/1506"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-04",
+  "name": "AJP NO-GI WEST CHINA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Jianyang Cultural and Sports Centre Gymnasium, Chengdu, China \ud83c\udde8\ud83c\uddf3",
+  "lat": "30.6598670",
+  "lon": "104.0633150",
+  "link": "https://ajptour.com/en/event/1533"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-04",
+  "name": "AJP TOUR ROMANIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sala Polivalent\u0103 Bucure\u0219ti, Bucure\u0219ti, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "44.4361414",
+  "lon": "26.1026840",
+  "link": "https://ajptour.com/en/event/1506"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-04",
+  "name": "AJP TOUR WEST CHINA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Jianyang Cultural and Sports Centre Gymnasium, Chengdu, China \ud83c\udde8\ud83c\uddf3",
+  "lat": "30.6598670",
+  "lon": "104.0633150",
+  "link": "https://ajptour.com/en/event/1533"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-10",
+  "name": "AJP NO-GI KUWAIT NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Shabab Sports Club, Kuwait City, Kuwait \ud83c\uddf0\ud83c\uddfc",
+  "lat": "29.3796532",
+  "lon": "47.9734174",
+  "link": "https://ajptour.com/en/event/1527"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-10",
+  "name": "AJP TOUR KUWAIT NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Shabab Sports Club, Kuwait City, Kuwait \ud83c\uddf0\ud83c\uddfc",
+  "lat": "29.3796532",
+  "lon": "47.9734174",
+  "link": "https://ajptour.com/en/event/1527"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-11",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2026-2027 - RIO DE JANEIRO",
+  "location": "Arena Carioca 1, Rio de Janeiro, Brazil \ud83c\udde7\ud83c\uddf7",
+  "lat": "-22.9110137",
+  "lon": "-43.2093727",
+  "link": "https://ajptour.com/en/event/1497"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-11",
+  "name": "AJP NO-GI CANCUN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Poliforum Playa del Carmen, Cancun, Mexico \ud83c\uddf2\ud83c\uddfd",
+  "lat": "21.1527467",
+  "lon": "-86.8425761",
+  "link": "https://ajptour.com/en/event/1484"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-11",
+  "name": "AJP TOUR CANCUN INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Poliforum Playa del Carmen, Cancun, Mexico \ud83c\uddf2\ud83c\uddfd",
+  "lat": "21.1527467",
+  "lon": "-86.8425761",
+  "link": "https://ajptour.com/en/event/1484"
+ },
+ {
   "promotion": "JJWL",
   "date": "2026-07-11",
   "name": "The Nationals East GI Adults and Masters",
@@ -17,15 +1014,51 @@
   "promotion": "JJWL",
   "date": "2026-07-18",
   "name": "The Nationals West II Gi Adults and Masters",
-  "location": "",
+  "location": "Adventist Health Arena",
   "link": "https://www.jjworldleague.com/events/nationals-west-II-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-07-18",
   "name": "The Nationals West II NoGi Adults and Masters",
-  "location": "",
+  "location": "Adventist Health Arena",
   "link": "https://www.jjworldleague.com/events/nationals-west-II-nogi-adults"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-26",
+  "name": "AJP NO-GI KYRGYZSTAN NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Gazprom Sports and Fitness Complex, Issyk-Kul, Kyrgyzstan \ud83c\uddf0\ud83c\uddec",
+  "lat": "42.4620398",
+  "lon": "77.0789862",
+  "link": "https://ajptour.com/en/event/1437"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-07-26",
+  "name": "AJP TOUR KYRGYZSTAN NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Gazprom Sports and Fitness Complex, Issyk-Kul, Kyrgyzstan \ud83c\uddf0\ud83c\uddec",
+  "lat": "42.4620398",
+  "lon": "77.0789862",
+  "link": "https://ajptour.com/en/event/1437"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-01",
+  "name": "AJP NO-GI SOUTHERN AFRICA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "German International School, Cape Town, South Africa \ud83c\uddff\ud83c\udde6",
+  "lat": "-33.9288301",
+  "lon": "18.4172197",
+  "link": "https://ajptour.com/en/event/1454"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-01",
+  "name": "AJP TOUR SOUTHERN AFRICA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI & NO-GI",
+  "location": "German International School, Cape Town, South Africa \ud83c\uddff\ud83c\udde6",
+  "lat": "-33.9288301",
+  "lon": "18.4172197",
+  "link": "https://ajptour.com/en/event/1454"
  },
  {
   "promotion": "JJWL",
@@ -51,6 +1084,42 @@
   "link": "https://ibjjf.com/events/dallas-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-08-15",
+  "name": "AJP NO-GI ANDINA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "PRD Coliseo - Parque Recreodeportivo el Salitre - Bogot\u00e1, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "4.0999170",
+  "lon": "-72.9088133",
+  "link": "https://ajptour.com/en/event/1425"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-15",
+  "name": "AJP NO-GI ANGOLA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Clube ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1462"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-15",
+  "name": "AJP TOUR ANDINA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "PRD Coliseo - Parque Recreodeportivo el Salitre - Bogot\u00e1, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "4.0999170",
+  "lon": "-72.9088133",
+  "link": "https://ajptour.com/en/event/1425"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-15",
+  "name": "AJP TOUR ANGOLA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Clube ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1462"
+ },
+ {
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Atlanta Gi Adults and Masters",
@@ -68,38 +1137,91 @@
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Houston XIX Gi Adults and Masters",
-  "location": "",
+  "location": "Fort Bend County Epicenter",
+  "lat": "29.5297519",
+  "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/houston-xix-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Houston XIX NoGi Adults and Masters",
-  "location": "",
+  "location": "Fort Bend County Epicenter",
+  "lat": "29.5297519",
+  "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/houston-xix-nogi-adults"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-29",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2026-2027 - MOSCOW",
+  "location": "Sport Academy Dinamo, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1474"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-29",
+  "name": "AJP NO-GI BLACK SEA CONSTAN\u021aA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sports Hall, Constan\u021ba, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "44.1767161",
+  "lon": "28.6507598",
+  "link": "https://ajptour.com/en/event/1536"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-29",
+  "name": "AJP NO-GI TUBAR\u00c3O INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Arena Multiuso Prefeito Estener, Tubar\u00e3o, Brazil \ud83c\udde7\ud83c\uddf7",
+  "lat": "-28.4714880",
+  "lon": "-49.0141320",
+  "link": "https://ajptour.com/en/event/1546"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-29",
+  "name": "AJP TOUR BLACK SEA CONSTAN\u021aA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 -GI",
+  "location": "Sports Hall, Constan\u021ba, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "44.1767161",
+  "lon": "28.6507598",
+  "link": "https://ajptour.com/en/event/1536"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-08-29",
+  "name": "AJP TOUR TUBAR\u00c3O INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Arena Multiuso Prefeito Estener, Tubar\u00e3o, Brazil \ud83c\udde7\ud83c\uddf7",
+  "lat": "-28.4714880",
+  "lon": "-49.0141320",
+  "link": "https://ajptour.com/en/event/1546"
  },
  {
   "promotion": "JJWL",
   "date": "2026-08-29",
   "name": "Dallas XV GI Adults and Masters",
-  "location": "",
+  "location": "Comerica Center",
+  "lat": "33.1005522",
+  "lon": "-96.8194322",
   "link": "https://www.jjworldleague.com/events/dallas-xv-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-08-29",
   "name": "Dallas XV NoGI Adults and Masters",
-  "location": "",
+  "location": "Comerica Center",
+  "lat": "33.1005522",
+  "lon": "-96.8194322",
   "link": "https://www.jjworldleague.com/events/dallas-xv-nogi-adults"
  },
  {
-  "promotion": "NEWBREED",
-  "date": "2026-09-01",
-  "name": "THE ULTIMATE GRAPPLER SPECTATOR TICKETS",
-  "location": "Coral Springs, FL",
-  "lat": "26.2711920",
-  "lon": "-80.2706044",
-  "link": "https://newbreedbjj.smoothcomp.com/en/event/34718"
+  "promotion": "AJP",
+  "date": "2026-09-04",
+  "name": "AJP TOUR ASIA CONTINENTAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1407"
  },
  {
   "promotion": "AGF",
@@ -118,6 +1240,42 @@
   "lat": "40.4406968",
   "lon": "-80.0025666",
   "link": "https://agf.smoothcomp.com/en/event/29298"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-12",
+  "name": "AJP NO-GI GERMANY NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sporthalle Wandsbek, Hamburg, Germany \ud83c\udde9\ud83c\uddea",
+  "lat": "53.5501721",
+  "lon": "10.0013165",
+  "link": "https://ajptour.com/en/event/1552"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-12",
+  "name": "AJP NO-GI UGRA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Tennis Center, Khanty-Mansiysk, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "61.0035254",
+  "lon": "69.0189684",
+  "link": "https://ajptour.com/en/event/1549"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-12",
+  "name": "AJP TOUR GERMANY NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sporthalle Wandsbek, Hamburg, Germany \ud83c\udde9\ud83c\uddea",
+  "lat": "53.5501721",
+  "lon": "10.0013165",
+  "link": "https://ajptour.com/en/event/1552"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-12",
+  "name": "AJP TOUR UGRA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Tennis Center, Khanty-Mansiysk, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "61.0035254",
+  "lon": "69.0189684",
+  "link": "https://ajptour.com/en/event/1549"
  },
  {
   "promotion": "JJWL",
@@ -148,11 +1306,22 @@
   "link": "https://www.jjworldleague.com/events/phx-xii-nogi-adults"
  },
  {
-  "promotion": "ADCC",
-  "date": "2026-09-19",
-  "name": "PAST EVENTS & RESULTS",
-  "location": "Past Events Results",
-  "link": "https://adcombat.com/adcc-events/results/"
+  "promotion": "AJP",
+  "date": "2026-09-13",
+  "name": "AJP NO-GI FINLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Tapiola Sports Hall Urheilupuistontie 2, 02200 Espoo, Finland \ud83c\uddeb\ud83c\uddee",
+  "lat": "60.1744225",
+  "lon": "24.7616833",
+  "link": "https://ajptour.com/en/event/1511"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-13",
+  "name": "AJP TOUR FINLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Tapiola Sports Hall Urheilupuistontie 2, 02200 Espoo, Finland \ud83c\uddeb\ud83c\uddee",
+  "lat": "60.1744225",
+  "lon": "24.7616833",
+  "link": "https://ajptour.com/en/event/1511"
  },
  {
   "promotion": "AGF",
@@ -173,32 +1342,72 @@
   "link": "https://agf.smoothcomp.com/en/event/29296"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-09-19",
+  "name": "AJP NO-GI PORTUGAL NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Pavilh\u00e3o Paz e Amizade, Loures, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "38.8308741",
+  "lon": "-9.1684512",
+  "link": "https://ajptour.com/en/event/1545"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-19",
+  "name": "AJP TOUR PORTUGAL NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Pavilh\u00e3o Paz e Amizade, Loures, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "38.8308741",
+  "lon": "-9.1684512",
+  "link": "https://ajptour.com/en/event/1545"
+ },
+ {
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Florida XIII Gi Adults and Masters",
-  "location": "",
+  "location": "Silver Spurs Arena",
+  "lat": "28.2989694",
+  "lon": "-81.3690129",
   "link": "https://www.jjworldleague.com/events/florida-xiii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Florida XIII NoGi Adults and Masters",
-  "location": "",
+  "location": "Silver Spurs Arena",
+  "lat": "28.2989694",
+  "lon": "-81.3690129",
   "link": "https://www.jjworldleague.com/events/florida-xiii-nogi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Golden State XVII Gi Adults and Masters",
-  "location": "",
+  "location": "Adventist Health Arena",
   "link": "https://www.jjworldleague.com/events/gs-xvii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-19",
   "name": "Golden State XVII NoGi Adults and Masters",
-  "location": "",
+  "location": "Adventist Health Arena",
   "link": "https://www.jjworldleague.com/events/gs-xvii-nogi-adults"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-20",
+  "name": "AJP NO-GI SIBERIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sport Complex \u201cEnergiya\u201d, Novosibirsk, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "54.9678145",
+  "lon": "82.9515989",
+  "link": "https://ajptour.com/en/event/1510"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-20",
+  "name": "AJP TOUR SIBERIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sport Complex \u201cEnergiya\u201d, Novosibirsk, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "54.9678145",
+  "lon": "82.9515989",
+  "link": "https://ajptour.com/en/event/1510"
  },
  {
   "promotion": "IBJJF",
@@ -213,7 +1422,7 @@
   "promotion": "ADCC",
   "date": "2026-09-26",
   "name": "ADCC CANADA \u2013 MONTREAL OPEN 2026",
-  "location": "Canada \u2013 Montreal",
+  "location": "Montreal, Canada",
   "lat": "45.5031824",
   "lon": "-73.5698065",
   "link": "https://adcombat.com/adcc-events/adcc-canada-montreal-open-2026/"
@@ -222,7 +1431,9 @@
   "promotion": "ADCC",
   "date": "2026-09-26",
   "name": "ADCC LATIN AMERICA \u2013 PETROPOLIS OPEN 2026",
-  "location": "Latin America \u2013 Petropolis",
+  "location": "Petropolis, Latin America",
+  "lat": "59.9387320",
+  "lon": "30.3162290",
   "link": "https://adcombat.com/adcc-events/adcc-latin-america-petropolis-open-2026/"
  },
  {
@@ -242,6 +1453,24 @@
   "lat": "29.7589382",
   "lon": "-95.3676974",
   "link": "https://agf.smoothcomp.com/en/event/28659"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-26",
+  "name": "AJP NO-GI MADRID INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Polideportivo Jose Caballero, Madrid, Spain Madrid",
+  "lat": "40.4171553",
+  "lon": "-3.7058355",
+  "link": "https://ajptour.com/en/event/1535"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-26",
+  "name": "AJP TOUR EUROPE CONTINENTAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Polideportivo Jose Caballero, Madrid, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "40.4167820",
+  "lon": "-3.7035070",
+  "link": "https://ajptour.com/en/event/1526"
  },
  {
   "promotion": "FUJI",
@@ -348,6 +1577,24 @@
   "link": "https://newbreedbjj.smoothcomp.com/en/event/31523"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-09-27",
+  "name": "AJP NO-GI VOLGA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "\u201cBatyr\u201d Judo Hall, Kazan, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.7946485",
+  "lon": "49.1115022",
+  "link": "https://ajptour.com/en/event/1542"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-09-27",
+  "name": "AJP TOUR VOLGA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "\u201cBatyr\u201d Judo Hall, Kazan, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.7946485",
+  "lon": "49.1115022",
+  "link": "https://ajptour.com/en/event/1542"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-09-27",
   "name": "FUJI BJJ Virginia Beach Fall Championship",
@@ -418,6 +1665,60 @@
   "lat": "37.2081729",
   "lon": "-93.2922715",
   "link": "https://agf.smoothcomp.com/en/event/28664"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-03",
+  "name": "AJP NO-GI CARTAGENA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Coliseo de Combate Ignacio Amador de la Pe\u00f1a, Cartagena, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "10.4265566",
+  "lon": "-75.5441671",
+  "link": "https://ajptour.com/en/event/1426"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-03",
+  "name": "AJP NO-GI ITALY NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Centro Pavesi FIPAV, Milan, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "45.4641943",
+  "lon": "9.1896346",
+  "link": "https://ajptour.com/en/event/1528"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-03",
+  "name": "AJP NO-GI MEXICO NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Plan Sexenal, Mexico City, Mexico \ud83c\uddf2\ud83c\uddfd",
+  "lat": "19.3207722",
+  "lon": "-99.1514678",
+  "link": "https://ajptour.com/en/event/1485"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-03",
+  "name": "AJP TOUR CARTAGENA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Coliseo de Combate Ignacio Amador de la Pe\u00f1a, Cartagena, Colombia \ud83c\udde8\ud83c\uddf4",
+  "lat": "10.4265566",
+  "lon": "-75.5441671",
+  "link": "https://ajptour.com/en/event/1426"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-03",
+  "name": "AJP TOUR ITALY NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Centro Pavesi FIPAV, Milan, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "45.4641943",
+  "lon": "9.1896346",
+  "link": "https://ajptour.com/en/event/1528"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-03",
+  "name": "AJP TOUR MEXICO NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Plan Sexenal, Mexico City, Mexico \ud83c\uddf2\ud83c\uddfd",
+  "lat": "19.3207722",
+  "lon": "-99.1514678",
+  "link": "https://ajptour.com/en/event/1485"
  },
  {
   "promotion": "FUJI",
@@ -555,6 +1856,96 @@
   "link": "https://agf.smoothcomp.com/en/event/28651"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP NO-GI AFRICA CONTINENTAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Clube Ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1466"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP NO-GI AUSTRIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "SW Arminen, Vienna, Austria \ud83c\udde6\ud83c\uddf9",
+  "lat": "48.2083537",
+  "lon": "16.3725042",
+  "link": "https://ajptour.com/en/event/1482"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP NO-GI POLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "OSiR W\u0142ochy, Warsaw, Poland \ud83c\uddf5\ud83c\uddf1",
+  "lat": "52.2319581",
+  "lon": "21.0067249",
+  "link": "https://ajptour.com/en/event/1509"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP NO-GI SWITZERLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Sporthalle Wankdorf, Bern, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "46.9484742",
+  "lon": "7.4521749",
+  "link": "https://ajptour.com/en/event/1558"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP NO-GI ULAANBAATAR INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Wrestling Palace, Ulaanbaatar, Mongolia \ud83c\uddf2\ud83c\uddf3",
+  "lat": "47.9184676",
+  "lon": "106.9177016",
+  "link": "https://ajptour.com/en/event/1491"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP TOUR AFRICA CONTINENTAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Clube Ferrovi\u00e1rio de Luanda, Luanda, Angola \ud83c\udde6\ud83c\uddf4",
+  "lat": "-8.8272699",
+  "lon": "13.2439512",
+  "link": "https://ajptour.com/en/event/1466"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP TOUR AUSTRIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "SW Arminen, Vienna, Austria \ud83c\udde6\ud83c\uddf9",
+  "lat": "48.2083537",
+  "lon": "16.3725042",
+  "link": "https://ajptour.com/en/event/1482"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP TOUR POLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "OSiR W\u0142ochy, Warsaw, Poland \ud83c\uddf5\ud83c\uddf1",
+  "lat": "52.2319581",
+  "lon": "21.0067249",
+  "link": "https://ajptour.com/en/event/1509"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP TOUR SWITZERLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Sporthalle Wankdorf, Bern, Switzerland \ud83c\udde8\ud83c\udded",
+  "lat": "46.9484742",
+  "lon": "7.4521749",
+  "link": "https://ajptour.com/en/event/1558"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-10",
+  "name": "AJP TOUR ULAANBAATAR INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Wrestling Palace, Ulaanbaatar, Mongolia \ud83c\uddf2\ud83c\uddf3",
+  "lat": "47.9184676",
+  "lon": "106.9177016",
+  "link": "https://ajptour.com/en/event/1491"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-10-10",
   "name": "FUJI BJJ St. Louis Fall Classic",
@@ -657,14 +2048,18 @@
   "promotion": "JJWL",
   "date": "2026-10-10",
   "name": "San Diego XIX GI Adults and Masters",
-  "location": "",
+  "location": "Del Mar Fairgrounds",
+  "lat": "32.9757807",
+  "lon": "-117.2617339",
   "link": "https://www.jjworldleague.com/events/san-diego-xix-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-10-10",
   "name": "San Diego XIX NoGI Adults and Masters",
-  "location": "",
+  "location": "Del Mar Fairgrounds",
+  "lat": "32.9757807",
+  "lon": "-117.2617339",
   "link": "https://www.jjworldleague.com/events/san-diego-xix-nogi-adults"
  },
  {
@@ -758,6 +2153,33 @@
   "link": "https://adcombat.com/adcc-events/adcc-singapore-open-2026/"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-10-11",
+  "name": "AJP NO-GI PANAM\u00c1 NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Centro de Entrenamiento Atheyna Bylon, Panama City, Panam\u00e1 \ud83c\uddf5\ud83c\udde6",
+  "lat": "8.9714493",
+  "lon": "-79.5341802",
+  "link": "https://ajptour.com/en/event/1417"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-11",
+  "name": "AJP NO-GI SOUTH EAST ASIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Treston International College, Manila, Philippines \ud83c\uddf5\ud83c\udded",
+  "lat": "14.5904492",
+  "lon": "120.9803621",
+  "link": "https://ajptour.com/en/event/1559"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-11",
+  "name": "AJP TOUR SOUTH EAST ASIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Treston International College, Manila, Philippines \ud83c\uddf5\ud83c\udded",
+  "lat": "14.5904492",
+  "lon": "120.9803621",
+  "link": "https://ajptour.com/en/event/1559"
+ },
+ {
   "promotion": "IBJJF",
   "date": "2026-10-11",
   "name": "Charlotte Fall Kids International Open IBJJF Jiu-Jitsu Championship 2026",
@@ -792,6 +2214,47 @@
   "lat": "43.7907755",
   "lon": "-79.1936912",
   "link": "https://ibjjf.com/events/toronto-kids-international-open-ibjjf-jiu-jitsu-championship-2026"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-13",
+  "name": "AJP NO-GI CENTRAL ASIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Gymnasium School 29, Maksim Gorkyi, Bishkek, Kyrgyzstan \ud83c\uddf0\ud83c\uddec",
+  "link": "https://ajptour.com/en/event/1438"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-13",
+  "name": "AJP TOUR CENTRAL ASIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Gymnasium School 29, Maksim Gorkyi, Bishkek, Kyrgyzstan \ud83c\uddf0\ud83c\uddec",
+  "link": "https://ajptour.com/en/event/1438"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-16",
+  "name": "AJP NO-GI QATAR NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Aspire Ladies Sports Hall, Doha, Qatar \ud83c\uddf6\ud83c\udde6",
+  "lat": "25.3108807",
+  "lon": "51.5081812",
+  "link": "https://ajptour.com/en/event/1413"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-16",
+  "name": "AJP NO-GI SHANGHAI INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Venue To Be Confirmed, Shanghai, China \ud83c\udde8\ud83c\uddf3",
+  "lat": "31.2312707",
+  "lon": "121.4700152",
+  "link": "https://ajptour.com/en/event/1562"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-16",
+  "name": "AJP TOUR QATAR NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Aspire Ladies Sports Hall, Doha, Qatar \ud83c\uddf6\ud83c\udde6",
+  "lat": "25.3108807",
+  "lon": "51.5081812",
+  "link": "https://ajptour.com/en/event/1413"
  },
  {
   "promotion": "IBJJF",
@@ -884,6 +2347,69 @@
   "link": "https://agf.smoothcomp.com/en/event/28663"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2026-2027 - SHANGHAI",
+  "location": "Venue To Be Confirmed, Shanghai, China \ud83c\udde8\ud83c\uddf3",
+  "lat": "31.2312707",
+  "lon": "121.4700152",
+  "link": "https://ajptour.com/en/event/1561"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "AJP MOSCOW JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "\"Yantar\" Sport Complex , Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1554"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "AJP NO-GI AMSTERDAM INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Topsport Center Almere, Almere, Netherlands \ud83c\uddf3\ud83c\uddf1",
+  "lat": "52.4417588",
+  "lon": "5.2093149",
+  "link": "https://ajptour.com/en/event/1487"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "AJP NO-GI URAL REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Rodina Sport Palace, Ekaterinburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "56.8382071",
+  "lon": "60.6007886",
+  "link": "https://ajptour.com/en/event/1548"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "AJP TOUR AMSTERDAM INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Topsport Center Almere, Almere, Netherlands \ud83c\uddf3\ud83c\uddf1",
+  "lat": "52.4417588",
+  "lon": "5.2093149",
+  "link": "https://ajptour.com/en/event/1487"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "AJP TOUR TURKEY NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Complex Istanbul, Istanbul, Turkey\ud83c\uddf9\ud83c\uddf7",
+  "lat": "45.7581012",
+  "lon": "8.5578947",
+  "link": "https://ajptour.com/en/event/1481"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-17",
+  "name": "AJP TOUR URAL REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Rodina Sport Palace, Ekaterinburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "56.8382071",
+  "lon": "60.6007886",
+  "link": "https://ajptour.com/en/event/1548"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-10-17",
   "name": "FUJI BJJ Amarillo Fall Championship",
@@ -950,14 +2476,18 @@
   "promotion": "JJWL",
   "date": "2026-10-17",
   "name": "The Nationals South II Gi Adults and Masters",
-  "location": "",
+  "location": "Fort Bend County Epicenter",
+  "lat": "29.5297519",
+  "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/nat-south-ii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-10-17",
   "name": "The Nationals South II NoGi Adults and Masters",
-  "location": "",
+  "location": "Fort Bend County Epicenter",
+  "lat": "29.5297519",
+  "lon": "-95.8156848",
   "link": "https://www.jjworldleague.com/events/nat-south-ii-nogi-adults"
  },
  {
@@ -1004,6 +2534,42 @@
   "lat": "40.5410997",
   "lon": "-79.8013437",
   "link": "https://wecan.tapcancerout.org/event/tap-cancer-out-2026-pittsburgh-bjj-open/e751770"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-18",
+  "name": "AJP NO-GI SPAIN NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Palau d\u2019Esports Catalunya, Tarragona, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "41.1172364",
+  "lon": "1.2546057",
+  "link": "https://ajptour.com/en/event/1550"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-18",
+  "name": "AJP TOUR FERGANA VALLEY REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Venue To Be Confirmed, Andijan, Uzbekistan \ud83c\uddfa\ud83c\uddff",
+  "lat": "40.7833471",
+  "lon": "72.3506746",
+  "link": "https://ajptour.com/en/event/1494"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-18",
+  "name": "AJP TOUR NO-GI VALLEY REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Venue To Be Confirmed, Andijan, Uzbekistan \ud83c\uddfa\ud83c\uddff",
+  "lat": "40.7833471",
+  "lon": "72.3506746",
+  "link": "https://ajptour.com/en/event/1494"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-18",
+  "name": "AJP TOUR SPAIN NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Palau d\u2019Esports Catalunya, Tarragona, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "41.1172364",
+  "lon": "1.2546057",
+  "link": "https://ajptour.com/en/event/1550"
  },
  {
   "promotion": "IBJJF",
@@ -1085,6 +2651,42 @@
   "lat": "42.5846773",
   "lon": "-87.8212263",
   "link": "https://agf.smoothcomp.com/en/event/33408"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-24",
+  "name": "AJP NO-GI SOUTH AFRICA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "German International School, Cape Town, South Africa \ud83c\uddff\ud83c\udde6",
+  "lat": "-33.9288301",
+  "lon": "18.4172197",
+  "link": "https://ajptour.com/en/event/1455"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-24",
+  "name": "AJP NO-GI T\u00c2RGU MURES INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Aleea Parcul Sportivilor 1, T\u00e2rgu Mure\u0219, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "46.5446253",
+  "lon": "24.5611960",
+  "link": "https://ajptour.com/en/event/1563"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-24",
+  "name": "AJP TOUR SOUTH AFRICA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "German International School, Cape Town, South Africa \ud83c\uddff\ud83c\udde6",
+  "lat": "-33.9288301",
+  "lon": "18.4172197",
+  "link": "https://ajptour.com/en/event/1455"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-24",
+  "name": "AJP TOUR T\u00c2RGU MURES INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Aleea Parcul Sportivilor 1, T\u00e2rgu Mure\u0219, Romania \ud83c\uddf7\ud83c\uddf4",
+  "lat": "46.5446253",
+  "lon": "24.5611960",
+  "link": "https://ajptour.com/en/event/1563"
  },
  {
   "promotion": "FUJI",
@@ -1231,6 +2833,24 @@
   "link": "https://adcombat.com/adcc-events/adcc-slovak-open-2026/"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-10-25",
+  "name": "AJP NO-GI SAINT PETERSBURG INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Platonova Academy, Saint Petersburg, Russia\ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1547"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-25",
+  "name": "AJP TOUR SAINT PETERSBURG INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Platonova Academy, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1547"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-10-25",
   "name": "FUJI BJJ Middletown Fall Championship",
@@ -1307,7 +2927,45 @@
   "date": "2026-10-31",
   "name": "ADCC LATIN AMERICA \u2013 (VENEZUELA) CARACAS OPEN 2026",
   "location": "Gimnasio Jos\u00e9 Joaqu\u00edn \u201cPap\u00e1\u201d Carrillo / Gimnasio de Parque Miranda",
+  "lat": "-33.4795640",
+  "lon": "-70.5659701",
   "link": "https://adcombat.com/adcc-events/adcc-latin-america-venezuela-caracas-open-2026/"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-31",
+  "name": "AJP NO-GI LISBON INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Pavilhao Oriente, Lisbon, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "38.7077507",
+  "lon": "-9.1365919",
+  "link": "https://ajptour.com/en/event/1565"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-31",
+  "name": "AJP NO-GI USA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "The Sportsplex, Dallas, Texas, USA \ud83c\uddfa\ud83c\uddf8",
+  "lat": "-23.6475414",
+  "lon": "-46.5101132",
+  "link": "https://ajptour.com/en/event/1544"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-31",
+  "name": "AJP TOUR LISBON INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Pavilhao Oriente, Lisbon, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "38.7077507",
+  "lon": "-9.1365919",
+  "link": "https://ajptour.com/en/event/1565"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-10-31",
+  "name": "AJP TOUR USA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "The Sportsplex, Dallas, Texas, USA \ud83c\uddfa\ud83c\uddf8",
+  "lat": "-23.6475414",
+  "lon": "-46.5101132",
+  "link": "https://ajptour.com/en/event/1544"
  },
  {
   "promotion": "FUJI",
@@ -1380,6 +3038,24 @@
   "link": "https://newbreedbjj.smoothcomp.com/en/event/34171"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-11-01",
+  "name": "AJP NO-GI CENTRAL RUSSIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "\"Yantar\" Sport Complex , Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1556"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-11-01",
+  "name": "AJP TOUR CENTRAL RUSSIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "\"Yantar\" Sport Complex , Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1556"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-11-01",
   "name": "FUJI BJJ Raleigh Fall Championship",
@@ -1429,6 +3105,8 @@
   "date": "2026-11-07",
   "name": "ADCC LATIN AMERICA \u2013 BRAZILIAN NATIONALS (BRASILEIRO) 2026",
   "location": "To be defined",
+  "lat": "33.9709393",
+  "lon": "-117.3198639",
   "link": "https://adcombat.com/adcc-events/adcc-latin-america-brazilian-nationals-brasileiro-2026/"
  },
  {
@@ -1498,14 +3176,18 @@
   "promotion": "JJWL",
   "date": "2026-11-07",
   "name": "The Finals Texas 2026 GI Adults and Masters",
-  "location": "",
+  "location": "Comerica Center",
+  "lat": "33.1005522",
+  "lon": "-96.8194322",
   "link": "https://www.jjworldleague.com/events/texas-finals-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-07",
   "name": "The Finals Texas 2026 NoGI Adults and Masters",
-  "location": "",
+  "location": "Comerica Center",
+  "lat": "33.1005522",
+  "lon": "-96.8194322",
   "link": "https://www.jjworldleague.com/events/texas-finals-2026-nogi-adults"
  },
  {
@@ -1513,8 +3195,8 @@
   "date": "2026-11-07",
   "name": "Charlotte Grappling & BJJ Championship \u2013 Hickory, NC",
   "location": "Hickory Metro Convention Center, Hickory, NC",
-  "lat": "35.7084166",
-  "lon": "-81.3037997",
+  "lat": "35.7102253",
+  "lon": "-81.3034376",
   "link": "https://www.nagafighter.com/event/charlotte-grappling-bjj-championship-hickory-nc-5/"
  },
  {
@@ -1604,6 +3286,24 @@
   "lat": "52.6105582",
   "lon": "13.2480163",
   "link": "https://adcombat.com/adcc-events/adcc-switzerland-open-2026-2/"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-11-09",
+  "name": "ABU DHABI WORLD AMATEUR JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1529"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-11-11",
+  "name": "ABU DHABI WORLD YOUTH JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1530"
  },
  {
   "promotion": "ADCC",
@@ -1857,6 +3557,24 @@
   "link": "https://wecan.tapcancerout.org/event/tap-cancer-out-2026-massachusetts-bjj-open/e751791"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-11-17",
+  "name": "ABU DHABI WORLD MASTERS JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1531"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-11-19",
+  "name": "ABU DHABI WORLD PROFESSIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1532"
+ },
+ {
   "promotion": "AGF",
   "date": "2026-11-21",
   "name": "2026 AGF Biloxi Open",
@@ -1932,28 +3650,28 @@
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals Florida 2026 Gi Adults and Masters",
-  "location": "",
+  "location": "Jenkins Arena",
   "link": "https://www.jjworldleague.com/events/finals-fl-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals Florida 2026 NoGi Adults and Masters",
-  "location": "",
+  "location": "Jenkins Arena",
   "link": "https://www.jjworldleague.com/events/finals-fl-2026-nogi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals NorCal 2026 Gi Adults and Masters",
-  "location": "",
+  "location": "Adventist Health Arena",
   "link": "https://www.jjworldleague.com/events/finals-norcal-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-21",
   "name": "The Finals NorCal 2026 NoGi Adults and Masters",
-  "location": "",
+  "location": "Adventist Health Arena",
   "link": "https://www.jjworldleague.com/events/finals-norcal-2026-nogi-adults"
  },
  {
@@ -2047,6 +3765,24 @@
   "link": "https://agf.smoothcomp.com/en/event/27719"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-11-28",
+  "name": "AJP NO-GI LAS VEGAS INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Valley high School, Las Vegas, Nevada, USA \ud83c\uddfa\ud83c\uddf8",
+  "lat": "36.1674263",
+  "lon": "-115.1484131",
+  "link": "https://ajptour.com/en/event/1541"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-11-28",
+  "name": "AJP TOUR LAS VEGAS INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Valley high School, Las Vegas, Nevada, USA \ud83c\uddfa\ud83c\uddf8",
+  "lat": "36.1674263",
+  "lon": "-115.1484131",
+  "link": "https://ajptour.com/en/event/1541"
+ },
+ {
   "promotion": "IBJJF",
   "date": "2026-11-28",
   "name": "Balne\u00e1rio Cambori\u00fa International Open IBJJF Jiu-Jitsu Championship 2026",
@@ -2117,6 +3853,8 @@
   "date": "2026-12-05",
   "name": "ADCC LATIN AMERICA \u2013 (CHILE) SOUTH AMERICAN CHAMPIONSHIP 2026",
   "location": "To be defined",
+  "lat": "33.9709393",
+  "lon": "-117.3198639",
   "link": "https://adcombat.com/adcc-events/adcc-latin-america-chile-south-american-championship-2026/"
  },
  {
@@ -2273,6 +4011,42 @@
   "link": "https://newbreedbjj.smoothcomp.com/en/event/33318"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-12-06",
+  "name": "AJP NO-GI MADRID REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Polideportivo Jose Caballero, Madrid, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "40.4167820",
+  "lon": "-3.7035070",
+  "link": "https://ajptour.com/en/event/1570"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-06",
+  "name": "AJP NO-GI SAINT PETERSBURG INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Platonova Academy, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1551"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-06",
+  "name": "AJP TOUR MADRID REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Polideportivo Jose Caballero, Madrid, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "40.4167820",
+  "lon": "-3.7035070",
+  "link": "https://ajptour.com/en/event/1570"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-06",
+  "name": "AJP TOUR SAINT PETERSBURG INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Platonova Academy, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/event/1551"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-12-06",
   "name": "FUJI BJJ Hawaii Winter Open",
@@ -2331,6 +4105,8 @@
   "date": "2026-12-12",
   "name": "ADCC LATIN AMERICA \u2013 (BRAZIL) MACA\u00c9 OPEN 2026",
   "location": "Gin\u00e1sio Municipal Poliesportivo-Maca\u00e9-RJ",
+  "lat": "-22.2828305",
+  "lon": "-41.9649091",
   "link": "https://adcombat.com/adcc-events/adcc-latin-america-brazil-macae-open-2026/"
  },
  {
@@ -2431,6 +4207,24 @@
   "link": "https://adcombat.com/adcc-events/adcc-korea-busan-open-2026/"
  },
  {
+  "promotion": "AJP",
+  "date": "2026-12-13",
+  "name": "AJP NO-GI PISA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Palazzetto Sergio Carlesi, Pisa, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "43.4714722",
+  "lon": "10.6797912",
+  "link": "https://ajptour.com/en/event/1571"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-13",
+  "name": "AJP TOUR PISA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Palazzetto Sergio Carlesi, Pisa, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "43.4714722",
+  "lon": "10.6797912",
+  "link": "https://ajptour.com/en/event/1571"
+ },
+ {
   "promotion": "FUJI",
   "date": "2026-12-13",
   "name": "FUJI BJJ Tampa Winter Championship",
@@ -2474,6 +4268,33 @@
   "lat": "36.1563122",
   "lon": "-95.9927516",
   "link": "https://agf.smoothcomp.com/en/event/28893"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-19",
+  "name": "AJP MOSCOW JIU-JITSU FESTIVAL 2026 - GI",
+  "location": "\"Yantar\" Sport Complex , Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1555"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-19",
+  "name": "AJP NO-GI SAN DIEGO REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
+  "location": "Lincoln High School, San Diego, California, USA \ud83c\uddfa\ud83c\uddf8",
+  "lat": "32.7157062",
+  "lon": "-117.1638284",
+  "link": "https://ajptour.com/en/event/1543"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2026-12-19",
+  "name": "AJP TOUR SAN DIEGO REGIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
+  "location": "Lincoln High School, San Diego, California, USA \ud83c\uddfa\ud83c\uddf8",
+  "lat": "32.7157062",
+  "lon": "-117.1638284",
+  "link": "https://ajptour.com/en/event/1543"
  },
  {
   "promotion": "FUJI",
@@ -2598,6 +4419,15 @@
   "lat": "38.7904673",
   "lon": "-9.1870817",
   "link": "https://ibjjf.com/events/european-ibjjf-jiu-jitsu-championship-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-01-15",
+  "name": "AJP TOUR ABU DHABI INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1574"
  },
  {
   "promotion": "FUJI",
@@ -2762,6 +4592,24 @@
   "link": "https://ibjjf.com/events/atlanta-winter-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2027"
  },
  {
+  "promotion": "AJP",
+  "date": "2027-01-30",
+  "name": "AJP NO-GI RUSSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2027",
+  "location": "\"Yantar\" Sport Complex , Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1557"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-01-30",
+  "name": "AJP TOUR RUSSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "\"Yantar\" Sport Complex , Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/event/1557"
+ },
+ {
   "promotion": "FUJI",
   "date": "2027-01-30",
   "name": "FUJI BJJ Indiana State Championship",
@@ -2890,11 +4738,38 @@
  {
   "promotion": "AJP",
   "date": "2027-02-07",
-  "name": "AJP TOUR VALENCIA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
-  "location": "Pabell\u00f3n Malvarrosa, Valencia, Spain \ud83c\uddea\ud83c\uddf8\n  ",
+  "name": "AJP NO-GI VALENCIA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027",
+  "location": "Pabell\u00f3n Malvarrosa, Valencia, Spain \ud83c\uddea\ud83c\uddf8",
   "lat": "39.4697065",
   "lon": "-0.3763353",
   "link": "https://ajptour.com/en/event/1579"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-02-07",
+  "name": "AJP TOUR VALENCIA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "Pabell\u00f3n Malvarrosa, Valencia, Spain \ud83c\uddea\ud83c\uddf8",
+  "lat": "39.4697065",
+  "lon": "-0.3763353",
+  "link": "https://ajptour.com/en/event/1579"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-02-12",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2026-2027 - ROME",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1534"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-02-12",
+  "name": "AJP NO-GI ROME INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027",
+  "location": "Centro Olimpico Matteo Pellicone - PalaFijlkam, Rome, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "41.8933203",
+  "lon": "12.4829321",
+  "link": "https://ajptour.com/en/event/1572"
  },
  {
   "promotion": "FUJI",
@@ -2922,6 +4797,15 @@
   "lat": "34.7743988",
   "lon": "32.4231586",
   "link": "https://adcombat.com/adcc-events/adcc-cyprus-open-2027/"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-02-21",
+  "name": "February 21",
+  "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
  },
  {
   "promotion": "TCO",
@@ -2998,11 +4882,29 @@
  {
   "promotion": "AJP",
   "date": "2027-03-14",
-  "name": "AJP TOUR BOLOGNA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI ",
-  "location": "Palasavena, Bologna, Italy \ud83c\uddee\ud83c\uddf9\n  ",
+  "name": "AJP NO-GI BOLOGNA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027",
+  "location": "Palasavena, Bologna, Italy \ud83c\uddee\ud83c\uddf9",
   "lat": "44.4938203",
   "lon": "11.3426327",
   "link": "https://ajptour.com/en/event/1573"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-03-14",
+  "name": "AJP TOUR BOLOGNA INTERNATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "Palasavena, Bologna, Italy \ud83c\uddee\ud83c\uddf9",
+  "lat": "44.4938203",
+  "lon": "11.3426327",
+  "link": "https://ajptour.com/en/event/1573"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-03-19",
+  "name": "AJP TOUR GULF REGIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "Venue To Be Confirmed, Dubai, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "25.0742823",
+  "lon": "55.1885624",
+  "link": "https://ajptour.com/en/event/1409"
  },
  {
   "promotion": "TCO",
@@ -3012,6 +4914,24 @@
   "lat": "38.5810606",
   "lon": "-121.4938950",
   "link": "https://wecan.tapcancerout.org/event/tap-cancer-out-2027-sacramento-bjj-open/e820175"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-03-21",
+  "name": "March 21",
+  "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-04-02",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2026-2027 - LISBON",
+  "location": "Casal Vistoso Sports Complex, Lisbon, Portugal \ud83c\uddf5\ud83c\uddf9",
+  "lat": "38.7077507",
+  "lon": "-9.1365919",
+  "link": "https://ajptour.com/en/event/1564"
  },
  {
   "promotion": "FUJI",
@@ -3066,5 +4986,131 @@
   "lat": "40.5688245",
   "lon": "-74.7002714",
   "link": "https://fujibjj.smoothcomp.com/en/event/35152"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-04-18",
+  "name": "April 18",
+  "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-05-07",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2026-2027 - ABU DHABI",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1566"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-05-16",
+  "name": "May 16",
+  "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-06-06",
+  "name": "June 6",
+  "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-06-11",
+  "name": "AJP TOUR UAE NATIONAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1575"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-06-19",
+  "name": "AJP NO-GI UAE NATIONAL JIU-JITSU CHAMPIONSHIP 2027",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1576"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-06-26",
+  "name": "ABU DHABI GRAND SLAM JIU-JITSU WORLD TOUR 2027-2028 - ISTANBUL",
+  "location": "Venue To Be Confirmed, Istanbul, Turkey \ud83c\uddf9\ud83c\uddf7",
+  "lat": "45.7581012",
+  "lon": "8.5578947",
+  "link": "https://ajptour.com/en/event/1580"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-08-28",
+  "name": "August 28-29",
+  "location": "Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "64.6863136",
+  "lon": "97.7453061",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-09-03",
+  "name": "AJP TOUR ASIA CONTINENTAL JIU-JITSU CHAMPIONSHIP 2027 - GI",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1577"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-09-11",
+  "name": "AJP NO-GI ASIA CONTINENTAL JIU-JITSU CHAMPIONSHIP 2027",
+  "location": "Mubadala Arena, Abu Dhabi, UAE \ud83c\udde6\ud83c\uddea",
+  "lat": "24.4538352",
+  "lon": "54.3774014",
+  "link": "https://ajptour.com/en/event/1578"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-09-19",
+  "name": "September 19",
+  "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-10-03",
+  "name": "October 3",
+  "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-10-17",
+  "name": "October 17",
+  "location": "Venue To Be Confirmed, Saint Petersburg, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "59.9606739",
+  "lon": "30.1586551",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "AJP",
+  "date": "2027-10-31",
+  "name": "October 31",
+  "location": "Venue To Be Confirmed, Moscow, Russia \ud83c\uddf7\ud83c\uddfa",
+  "lat": "55.6255780",
+  "lon": "37.6063916",
+  "link": "https://ajptour.com/en/events-1/events-calendar-2027"
  }
 ]
