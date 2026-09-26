@@ -875,8 +875,8 @@
   "date": "2026-06-27",
   "name": "AJP NO-GI MALAYSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "REKASCAPE, Persiaran APEC, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia \ud83c\uddf2\ud83c\uddfe",
-  "lat": "2.9441693",
-  "lon": "101.6610677",
+  "lat": "2.9201447",
+  "lon": "101.6586052",
   "link": "https://ajptour.com/en/event/1496"
  },
  {
@@ -893,8 +893,8 @@
   "date": "2026-06-27",
   "name": "AJP TOUR MALAYSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
   "location": "REKASCAPE, Persiaran APEC, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia \ud83c\uddf2\ud83c\uddfe",
-  "lat": "2.9441693",
-  "lon": "101.6610677",
+  "lat": "2.9201447",
+  "lon": "101.6586052",
   "link": "https://ajptour.com/en/event/1496"
  },
  {
@@ -1000,14 +1000,18 @@
   "promotion": "JJWL",
   "date": "2026-07-11",
   "name": "The Nationals East GI Adults and Masters",
-  "location": "",
+  "location": "Cure Insurance Arena, Trenton",
+  "lat": "40.2133400",
+  "lon": "-74.7569040",
   "link": "https://www.jjworldleague.com/events/nationals-east-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-07-11",
   "name": "The Nationals East NoGI Adults and Masters",
-  "location": "",
+  "location": "Cure Insurance Arena, Trenton",
+  "lat": "40.2133400",
+  "lon": "-74.7569040",
   "link": "https://www.jjworldleague.com/events/nationals-east-nogi-adults"
  },
  {
@@ -1068,14 +1072,18 @@
   "promotion": "JJWL",
   "date": "2026-08-01",
   "name": "California XII Gi Adults and Masters",
-  "location": "",
+  "location": "Anaheim Arena, Anaheim",
+  "lat": "33.8005839",
+  "lon": "-117.9208047",
   "link": "https://www.jjworldleague.com/events/cali-xii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-08-01",
   "name": "California XII NoGi Adults and Masters",
-  "location": "",
+  "location": "Anaheim Arena, Anaheim",
+  "lat": "33.8005839",
+  "lon": "-117.9208047",
   "link": "https://www.jjworldleague.com/events/cali-xii-nogi-adults"
  },
  {
@@ -1127,14 +1135,18 @@
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Atlanta Gi Adults and Masters",
-  "location": "",
+  "location": "Gateway Center Arena, Atlanta",
+  "lat": "33.6468018",
+  "lon": "-84.4597008",
   "link": "https://www.jjworldleague.com/events/atlanta-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-08-22",
   "name": "Atlanta NoGi Adults and Masters",
-  "location": "",
+  "location": "Gateway Center Arena, Atlanta",
+  "lat": "33.6468018",
+  "lon": "-84.4597008",
   "link": "https://www.jjworldleague.com/events/atlanta-nogi-adults"
  },
  {
@@ -1285,28 +1297,36 @@
   "promotion": "JJWL",
   "date": "2026-09-12",
   "name": "New Jersey VI GI Adults and Masters",
-  "location": "",
+  "location": "Cure Insurance Arena, New Jersey",
+  "lat": "40.2133400",
+  "lon": "-74.7569040",
   "link": "https://www.jjworldleague.com/events/new-jersey-vi-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-12",
   "name": "New Jersey VI NoGI Adults and Masters",
-  "location": "",
+  "location": "Cure Insurance Arena, New Jersey",
+  "lat": "40.2133400",
+  "lon": "-74.7569040",
   "link": "https://www.jjworldleague.com/events/new-jersey-vi-nogi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-12",
   "name": "Phoenix XII GI Adults and Masters",
-  "location": "",
+  "location": "Mullett Arena, Phoenix",
+  "lat": "33.4266430",
+  "lon": "-111.9284887",
   "link": "https://www.jjworldleague.com/events/phx-xii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-12",
   "name": "Phoenix XII NoGI Adults and Masters",
-  "location": "",
+  "location": "Mullett Arena, Phoenix",
+  "lat": "33.4266430",
+  "lon": "-111.9284887",
   "link": "https://www.jjworldleague.com/events/phx-xii-nogi-adults"
  },
  {
@@ -1529,14 +1549,18 @@
   "promotion": "JJWL",
   "date": "2026-09-26",
   "name": "Pan Americans 2026 Gi Adults and Masters",
-  "location": "",
+  "location": "Long Beach Arena, Long Beach",
+  "lat": "33.7640942",
+  "lon": "-118.1883741",
   "link": "https://www.jjworldleague.com/events/pan-americans-iii-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-09-26",
   "name": "Pan Americans 2026 NoGi Adults and Masters",
-  "location": "",
+  "location": "Long Beach Arena, Long Beach",
+  "lat": "33.7640942",
+  "lon": "-118.1883741",
   "link": "https://www.jjworldleague.com/events/pan-americans-iii-nogi-adults"
  },
  {
@@ -2057,8 +2081,8 @@
   "date": "2026-10-10",
   "name": "San Diego XIX GI Adults and Masters",
   "location": "Del Mar Fairgrounds, 2260 Jimmy Durante Blvd, Del Mar, CA 92014",
-  "lat": "32.9705342",
-  "lon": "-117.2630112",
+  "lat": "32.9706411",
+  "lon": "-117.2626081",
   "link": "https://www.jjworldleague.com/events/san-diego-xix-gi-adults"
  },
  {
@@ -2066,8 +2090,8 @@
   "date": "2026-10-10",
   "name": "San Diego XIX NoGI Adults and Masters",
   "location": "Del Mar Fairgrounds, 2260 Jimmy Durante Blvd, Del Mar, CA 92014",
-  "lat": "32.9705342",
-  "lon": "-117.2630112",
+  "lat": "32.9706411",
+  "lon": "-117.2626081",
   "link": "https://www.jjworldleague.com/events/san-diego-xix-nogi-adults"
  },
  {
@@ -3007,8 +3031,8 @@
   "date": "2026-10-31",
   "name": "Houston Grappling & BJJ Championship \u2013 Spring, TX",
   "location": "Community Fieldhouse, Spring, TX",
-  "lat": "30.0919108",
-  "lon": "-95.4057018",
+  "lat": "30.0857271",
+  "lon": "-95.4165110",
   "link": "https://www.nagafighter.com/event/houston-grappling-bjj-championship-spring-tx-3/"
  },
  {
@@ -3432,28 +3456,36 @@
   "promotion": "JJWL",
   "date": "2026-11-14",
   "name": "AZ State Championship 2026 GI Adults and Masters",
-  "location": "",
+  "location": "Mullett Arena, Phoenix",
+  "lat": "33.4266430",
+  "lon": "-111.9284887",
   "link": "https://www.jjworldleague.com/events/az-state-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-14",
   "name": "AZ State Championship 2026 NoGI Adults and Masters",
-  "location": "",
+  "location": "Mullett Arena, Phoenix",
+  "lat": "33.4266430",
+  "lon": "-111.9284887",
   "link": "https://www.jjworldleague.com/events/az-state-2026-nogi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-14",
   "name": "The Finals East 2026 GI Adults and Masters",
-  "location": "",
+  "location": "Cure Insurance Arena, New Jersey",
+  "lat": "40.2133400",
+  "lon": "-74.7569040",
   "link": "https://www.jjworldleague.com/events/finals-east-2026-gi-adults"
  },
  {
   "promotion": "JJWL",
   "date": "2026-11-14",
   "name": "The Finals East 2026 NoGI Adults and Masters",
-  "location": "",
+  "location": "Cure Insurance Arena, New Jersey",
+  "lat": "40.2133400",
+  "lon": "-74.7569040",
   "link": "https://www.jjworldleague.com/events/finals-east-2026-nogi-adults"
  },
  {
@@ -3470,8 +3502,8 @@
   "date": "2026-11-14",
   "name": "Orlando Grappling & BJJ Championship \u2013 Orlando, FL",
   "location": "Central Florida Fairgrounds, Orlando, FL",
-  "lat": "28.5527506",
-  "lon": "-81.4372789",
+  "lat": "28.5523525",
+  "lon": "-81.4392060",
   "link": "https://www.nagafighter.com/event/orlando-grappling-bjj-championship-orlando-fl-6/"
  },
  {
@@ -3817,8 +3849,8 @@
   "date": "2026-11-28",
   "name": "Paris Fall International Open IBJJF Jiu-Jitsu Championship 2026",
   "location": "Salle Charpy - Stade Charl\u00e9ty, Paris",
-  "lat": "48.8588897",
-  "lon": "2.3200410",
+  "lat": "48.8534951",
+  "lon": "2.3483915",
   "link": "https://ibjjf.com/events/paris-fall-international-open-ibjjf-jiu-jitsu-championship-2026"
  },
  {
@@ -3826,8 +3858,8 @@
   "date": "2026-11-28",
   "name": "Paris Fall International Open IBJJF Jiu-Jitsu No-Gi Championship 2026",
   "location": "Salle Charpy - Stade Charl\u00e9ty, Paris",
-  "lat": "48.8588897",
-  "lon": "2.3200410",
+  "lat": "48.8534951",
+  "lon": "2.3483915",
   "link": "https://ibjjf.com/events/paris-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026"
  },
  {
