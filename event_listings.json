@@ -875,8 +875,8 @@
   "date": "2026-06-27",
   "name": "AJP NO-GI MALAYSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "REKASCAPE, Persiaran APEC, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia \ud83c\uddf2\ud83c\uddfe",
-  "lat": "2.9201447",
-  "lon": "101.6586052",
+  "lat": "2.9464857",
+  "lon": "101.6571446",
   "link": "https://ajptour.com/en/event/1496"
  },
  {
@@ -893,8 +893,8 @@
   "date": "2026-06-27",
   "name": "AJP TOUR MALAYSIA NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
   "location": "REKASCAPE, Persiaran APEC, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia \ud83c\uddf2\ud83c\uddfe",
-  "lat": "2.9201447",
-  "lon": "101.6586052",
+  "lat": "2.9464857",
+  "lon": "101.6571446",
   "link": "https://ajptour.com/en/event/1496"
  },
  {
@@ -998,24 +998,6 @@
  },
  {
   "promotion": "JJWL",
-  "date": "2026-07-11",
-  "name": "The Nationals East GI Adults and Masters",
-  "location": "Cure Insurance Arena, Trenton",
-  "lat": "40.2133400",
-  "lon": "-74.7569040",
-  "link": "https://www.jjworldleague.com/events/nationals-east-gi-adults"
- },
- {
-  "promotion": "JJWL",
-  "date": "2026-07-11",
-  "name": "The Nationals East NoGI Adults and Masters",
-  "location": "Cure Insurance Arena, Trenton",
-  "lat": "40.2133400",
-  "lon": "-74.7569040",
-  "link": "https://www.jjworldleague.com/events/nationals-east-nogi-adults"
- },
- {
-  "promotion": "JJWL",
   "date": "2026-07-18",
   "name": "The Nationals West II Gi Adults and Masters",
   "location": "Adventist Health Arena, 248 W Fremont St. Stockton, CA 95203",
@@ -1085,15 +1067,6 @@
   "lat": "33.8005839",
   "lon": "-117.9208047",
   "link": "https://www.jjworldleague.com/events/cali-xii-nogi-adults"
- },
- {
-  "promotion": "IBJJF",
-  "date": "2026-08-02",
-  "name": "Dallas Summer Kids International Open IBJJF Jiu-Jitsu Championship 2026",
-  "location": "Dallas Market Hall - North Hall, Dallas",
-  "lat": "32.7762719",
-  "lon": "-96.7968559",
-  "link": "https://ibjjf.com/events/dallas-summer-kids-international-open-ibjjf-jiu-jitsu-championship-2026"
  },
  {
   "promotion": "AJP",
@@ -1334,8 +1307,8 @@
   "date": "2026-09-13",
   "name": "AJP NO-GI FINLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "Tapiola Sports Hall Urheilupuistontie 2, 02200 Espoo, Finland \ud83c\uddeb\ud83c\uddee",
-  "lat": "60.1744225",
-  "lon": "24.7616833",
+  "lat": "60.1744199",
+  "lon": "24.7616846",
   "link": "https://ajptour.com/en/event/1511"
  },
  {
@@ -1343,8 +1316,8 @@
   "date": "2026-09-13",
   "name": "AJP TOUR FINLAND NATIONAL JIU-JITSU CHAMPIONSHIP 2026 - GI",
   "location": "Tapiola Sports Hall Urheilupuistontie 2, 02200 Espoo, Finland \ud83c\uddeb\ud83c\uddee",
-  "lat": "60.1744225",
-  "lon": "24.7616833",
+  "lat": "60.1744199",
+  "lon": "24.7616846",
   "link": "https://ajptour.com/en/event/1511"
  },
  {
@@ -1352,8 +1325,8 @@
   "date": "2026-09-19",
   "name": "2026 AGF Amsterdam Open",
   "location": "Almere , ",
-  "lat": "52.4417588",
-  "lon": "5.2093149",
+  "lat": "52.3705038",
+  "lon": "5.2185859",
   "link": "https://agf.smoothcomp.com/en/event/28092"
  },
  {
@@ -1424,8 +1397,8 @@
   "date": "2026-09-20",
   "name": "AJP NO-GI SIBERIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "Sport Complex \u201cEnergiya\u201d, Novosibirsk, Russia \ud83c\uddf7\ud83c\uddfa",
-  "lat": "55.0288307",
-  "lon": "82.9226887",
+  "lat": "54.9678145",
+  "lon": "82.9515989",
   "link": "https://ajptour.com/en/event/1510"
  },
  {
@@ -1433,36 +1406,9 @@
   "date": "2026-09-20",
   "name": "AJP TOUR SIBERIA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
   "location": "Sport Complex \u201cEnergiya\u201d, Novosibirsk, Russia \ud83c\uddf7\ud83c\uddfa",
-  "lat": "55.0288307",
-  "lon": "82.9226887",
+  "lat": "54.9678145",
+  "lon": "82.9515989",
   "link": "https://ajptour.com/en/event/1510"
- },
- {
-  "promotion": "IBJJF",
-  "date": "2026-09-25",
-  "name": "Campeonato Sul-Americano de Jiu-Jitsu 2026",
-  "location": "Gin\u00e1sio Poliesportivo Jos\u00e9 Correa, Barueri",
-  "lat": "-23.5071477",
-  "lon": "-46.8678409",
-  "link": "https://ibjjf.com/events/campeonato-sul-americano-de-jiu-jitsu-2026"
- },
- {
-  "promotion": "ADCC",
-  "date": "2026-09-26",
-  "name": "ADCC CANADA \u2013 MONTREAL OPEN 2026",
-  "location": "Montreal, Canada",
-  "lat": "45.5031824",
-  "lon": "-73.5698065",
-  "link": "https://adcombat.com/adcc-events/adcc-canada-montreal-open-2026/"
- },
- {
-  "promotion": "ADCC",
-  "date": "2026-09-26",
-  "name": "ADCC LATIN AMERICA \u2013 PETROPOLIS OPEN 2026",
-  "location": "Petropolis, Latin America",
-  "lat": "59.9387320",
-  "lon": "30.3162290",
-  "link": "https://adcombat.com/adcc-events/adcc-latin-america-petropolis-open-2026/"
  },
  {
   "promotion": "AGF",
@@ -1501,51 +1447,6 @@
   "link": "https://ajptour.com/en/event/1526"
  },
  {
-  "promotion": "FUJI",
-  "date": "2026-09-26",
-  "name": "FUJI BJJ Bowling Green Fall Championship",
-  "location": "Bowling Green, KY",
-  "lat": "36.9929203",
-  "lon": "-86.4428677",
-  "link": "https://fujibjj.smoothcomp.com/en/event/31574"
- },
- {
-  "promotion": "FUJI",
-  "date": "2026-09-26",
-  "name": "FUJI BJJ Minnesota Fall Championships",
-  "location": "Hopkins, MN",
-  "lat": "44.9243986",
-  "lon": "-93.4114487",
-  "link": "https://fujibjj.smoothcomp.com/en/event/33121"
- },
- {
-  "promotion": "FUJI",
-  "date": "2026-09-26",
-  "name": "FUJI BJJ Pennsylvania State Championship",
-  "location": "Allentown, PA",
-  "lat": "40.6022552",
-  "lon": "-75.4716115",
-  "link": "https://fujibjj.smoothcomp.com/en/event/31024"
- },
- {
-  "promotion": "IBJJF",
-  "date": "2026-09-26",
-  "name": "Turin International Open IBJJF Jiu-Jitsu Championship 2026",
-  "location": "Palazzo dello Sport Ruffini, Torino",
-  "lat": "45.0677551",
-  "lon": "7.6824892",
-  "link": "https://ibjjf.com/events/turin-international-open-ibjjf-jiu-jitsu-championship-2026"
- },
- {
-  "promotion": "IBJJF",
-  "date": "2026-09-26",
-  "name": "Turin International Open IBJJF Jiu-Jitsu No-Gi Championship 2026",
-  "location": "Palazzo dello Sport Ruffini, Torino",
-  "lat": "45.0677551",
-  "lon": "7.6824892",
-  "link": "https://ibjjf.com/events/turin-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026"
- },
- {
   "promotion": "JJWL",
   "date": "2026-09-26",
   "name": "Pan Americans 2026 Gi Adults and Masters",
@@ -1564,51 +1465,6 @@
   "link": "https://www.jjworldleague.com/events/pan-americans-iii-nogi-adults"
  },
  {
-  "promotion": "NAGA",
-  "date": "2026-09-26",
-  "name": "Netherlands Grappling & BJJ Championship \u2013 The Hague, Netherlands",
-  "location": "Sporthal Leidschenveen, The Hague, Netherlands",
-  "lat": "52.0674493",
-  "lon": "4.3984397",
-  "link": "https://www.nagafighter.com/event/netherlands-grappling-bjj-championship-the-hague-netherlands/"
- },
- {
-  "promotion": "NAGA",
-  "date": "2026-09-26",
-  "name": "Phoenix Grappling & BJJ Championship \u2013 Mesa, AZ",
-  "location": "Arizona Athletic Grounds, Mesa, AZ",
-  "lat": "33.3001654",
-  "lon": "-111.6288403",
-  "link": "https://www.nagafighter.com/event/phoenix-grappling-bjj-championship-mesa-az/"
- },
- {
-  "promotion": "NAGA",
-  "date": "2026-09-26",
-  "name": "Pittsburgh Grappling & BJJ Championship \u2013 Cheswick, PA",
-  "location": "Pittsburgh Indoor Sports Arena, Cheswick, PA",
-  "lat": "40.5410997",
-  "lon": "-79.8013437",
-  "link": "https://www.nagafighter.com/event/pittsburgh-grappling-bjj-championship-cheswick-pa-4/"
- },
- {
-  "promotion": "NEWBREED",
-  "date": "2026-09-26",
-  "name": "NEWBREED CHARLESTON TRIPLE CROWN SERIES",
-  "location": "Charleston, SC",
-  "lat": "32.7884363",
-  "lon": "-79.9399309",
-  "link": "https://newbreedbjj.smoothcomp.com/en/event/29850"
- },
- {
-  "promotion": "NEWBREED",
-  "date": "2026-09-26",
-  "name": "NEWBREED PENSACOLA FALL CHAMPIONSHIP 2026",
-  "location": "Pensacola, FL",
-  "lat": "30.4213090",
-  "lon": "-87.2169149",
-  "link": "https://newbreedbjj.smoothcomp.com/en/event/31523"
- },
- {
   "promotion": "AJP",
   "date": "2026-09-27",
   "name": "AJP NO-GI VOLGA REGIONAL JIU-JITSU CHAMPIONSHIP 2026",
@@ -1625,24 +1481,6 @@
   "lat": "55.7946485",
   "lon": "49.1115022",
   "link": "https://ajptour.com/en/event/1542"
- },
- {
-  "promotion": "FUJI",
-  "date": "2026-09-27",
-  "name": "FUJI BJJ Virginia Beach Fall Championship",
-  "location": "Virginia Beach, VA",
-  "lat": "36.8496579",
-  "lon": "-75.9760751",
-  "link": "https://fujibjj.smoothcomp.com/en/event/32534"
- },
- {
-  "promotion": "IBJJF",
-  "date": "2026-09-27",
-  "name": "San Antonio Fall International Open IBJJF Jiu-Jitsu Championship 2026",
-  "location": "Mission Concepcion Sports Park, San Antonio",
-  "lat": "29.3855202",
-  "lon": "-98.4949624",
-  "link": "https://ibjjf.com/events/san-antonio-fall-international-open-ibjjf-jiu-jitsu-championship-2026"
  },
  {
   "promotion": "IBJJF",
@@ -3031,8 +2869,8 @@
   "date": "2026-10-31",
   "name": "Houston Grappling & BJJ Championship \u2013 Spring, TX",
   "location": "Community Fieldhouse, Spring, TX",
-  "lat": "30.0857271",
-  "lon": "-95.4165110",
+  "lat": "30.0919108",
+  "lon": "-95.4057018",
   "link": "https://www.nagafighter.com/event/houston-grappling-bjj-championship-spring-tx-3/"
  },
  {
@@ -3207,6 +3045,24 @@
  {
   "promotion": "JJWL",
   "date": "2026-11-07",
+  "name": "California Championship II Gi Adults and Masters",
+  "location": "Long Beach Arena, Long Beach",
+  "lat": "33.7640942",
+  "lon": "-118.1883741",
+  "link": "https://www.jjworldleague.com/events/ca-champ-II-gi-adults"
+ },
+ {
+  "promotion": "JJWL",
+  "date": "2026-11-07",
+  "name": "California Championship II NoGi Adults and Masters",
+  "location": "Long Beach Arena, Long Beach",
+  "lat": "33.7640942",
+  "lon": "-118.1883741",
+  "link": "https://www.jjworldleague.com/events/ca-champ-II-nogi-adults"
+ },
+ {
+  "promotion": "JJWL",
+  "date": "2026-11-07",
   "name": "The Finals Texas 2026 GI Adults and Masters",
   "location": "Comerica Center, 2601 Avenue of the Stars - Frisco, TX 75034",
   "lat": "33.1005620",
@@ -3227,8 +3083,8 @@
   "date": "2026-11-07",
   "name": "Charlotte Grappling & BJJ Championship \u2013 Hickory, NC",
   "location": "Hickory Metro Convention Center, Hickory, NC",
-  "lat": "35.7102253",
-  "lon": "-81.3034376",
+  "lat": "35.7084166",
+  "lon": "-81.3037997",
   "link": "https://www.nagafighter.com/event/charlotte-grappling-bjj-championship-hickory-nc-5/"
  },
  {
@@ -3502,8 +3358,8 @@
   "date": "2026-11-14",
   "name": "Orlando Grappling & BJJ Championship \u2013 Orlando, FL",
   "location": "Central Florida Fairgrounds, Orlando, FL",
-  "lat": "28.5523525",
-  "lon": "-81.4392060",
+  "lat": "28.5527506",
+  "lon": "-81.4372789",
   "link": "https://www.nagafighter.com/event/orlando-grappling-bjj-championship-orlando-fl-6/"
  },
  {
@@ -3849,8 +3705,8 @@
   "date": "2026-11-28",
   "name": "Paris Fall International Open IBJJF Jiu-Jitsu Championship 2026",
   "location": "Salle Charpy - Stade Charl\u00e9ty, Paris",
-  "lat": "48.8534951",
-  "lon": "2.3483915",
+  "lat": "48.8588897",
+  "lon": "2.3200410",
   "link": "https://ibjjf.com/events/paris-fall-international-open-ibjjf-jiu-jitsu-championship-2026"
  },
  {
@@ -3858,8 +3714,8 @@
   "date": "2026-11-28",
   "name": "Paris Fall International Open IBJJF Jiu-Jitsu No-Gi Championship 2026",
   "location": "Salle Charpy - Stade Charl\u00e9ty, Paris",
-  "lat": "48.8534951",
-  "lon": "2.3483915",
+  "lat": "48.8588897",
+  "lon": "2.3200410",
   "link": "https://ibjjf.com/events/paris-fall-international-open-ibjjf-jiu-jitsu-no-gi-championship-2026"
  },
  {
@@ -3928,8 +3784,8 @@
   "date": "2026-12-05",
   "name": "2026 AGF European Championships",
   "location": "Almere , ",
-  "lat": "52.4417588",
-  "lon": "5.2093149",
+  "lat": "52.3705038",
+  "lon": "5.2185859",
   "link": "https://agf.smoothcomp.com/en/event/28189"
  },
  {
@@ -4847,6 +4703,24 @@
   "link": "https://adcombat.com/adcc-events/adcc-cyprus-open-2027/"
  },
  {
+  "promotion": "IBJJF",
+  "date": "2027-02-20",
+  "name": "Austin Winter International Open IBJJF Jiu-Jitsu Championship 2027",
+  "location": "Round Rock Sports Center, Round Rock,",
+  "lat": "30.5085915",
+  "lon": "-97.6788056",
+  "link": "https://ibjjf.com/events/austin-winter-international-open-ibjjf-jiu-jitsu-championship-2027"
+ },
+ {
+  "promotion": "IBJJF",
+  "date": "2027-02-20",
+  "name": "Austin Winter International Open IBJJF Jiu-Jitsu No-Gi Championship 2027",
+  "location": "Round Rock Sports Center, Round Rock,",
+  "lat": "30.5085915",
+  "lon": "-97.6788056",
+  "link": "https://ibjjf.com/events/austin-winter-international-open-ibjjf-jiu-jitsu-no-gi-championship-2027"
+ },
+ {
   "promotion": "AJP",
   "date": "2027-02-21",
   "name": "AJP event \u2013 Saint Petersburg (details TBA)",
@@ -4854,6 +4728,24 @@
   "lat": "59.9606739",
   "lon": "30.1586551",
   "link": "https://ajptour.com/en/events-1/events-calendar-2027"
+ },
+ {
+  "promotion": "IBJJF",
+  "date": "2027-02-21",
+  "name": "Austin Winter Kids International Open IBJJF Jiu-Jitsu Championship 2027",
+  "location": "Round Rock Sports Center, Round Rock",
+  "lat": "30.5085915",
+  "lon": "-97.6788056",
+  "link": "https://ibjjf.com/events/austin-winter-kids-international-open-ibjjf-jiu-jitsu-championship-2027"
+ },
+ {
+  "promotion": "IBJJF",
+  "date": "2027-02-21",
+  "name": "Austin Winter Kids International Open IBJJF Jiu-Jitsu No-Gi Championship 2027",
+  "location": "Round Rock Sports Center, Round Rock",
+  "lat": "30.5085915",
+  "lon": "-97.6788056",
+  "link": "https://ibjjf.com/events/austin-winter-kids-international-open-ibjjf-jiu-jitsu-no-gi-championship-2027"
  },
  {
   "promotion": "TCO",
